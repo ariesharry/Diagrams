@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-25T06:41:05.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ohFYuwuvY1mK04oMkTN7" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-25T06:47:55.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="APuxiHPtl5Owi8svnps9" version="20.3.6" type="github">
   <diagram id="u7yg5y88VUfooyFI-_gg" name="Page-1">
     <mxGraphModel dx="1038" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,8 +64,8 @@
         <mxCell id="vaPnFBFoX6yv_8vDQfTk-20" value="Manual encodoing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="250" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vaPnFBFoX6yv_8vDQfTk-21" value="ERP store limited" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="380" width="90" height="30" as="geometry" />
+        <mxCell id="vaPnFBFoX6yv_8vDQfTk-21" value="Scanner &amp;amp; reader" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="390" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vaPnFBFoX6yv_8vDQfTk-22" value="Not an integrated data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="90" height="30" as="geometry" />
