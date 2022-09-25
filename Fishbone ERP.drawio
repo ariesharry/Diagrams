@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-25T13:55:23.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="25YdkpUJAU9mzn-td6OZ" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-25T13:56:33.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="yIsrgLn3setoYtLWBZQD" version="20.3.6" type="github">
   <diagram id="u7yg5y88VUfooyFI-_gg" name="Page-1">
     <mxGraphModel dx="865" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="vaPnFBFoX6yv_8vDQfTk-14" value="Unskilled labor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="240" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vaPnFBFoX6yv_8vDQfTk-16" value="Non standard performance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="vaPnFBFoX6yv_8vDQfTk-16" value="Not standard performance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="276" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vaPnFBFoX6yv_8vDQfTk-17" value="Not integrated ERP system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
