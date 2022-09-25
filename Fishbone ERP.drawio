@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-25T12:38:54.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="T3RAUyNLK5gxvaE79b-N" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-25T13:55:23.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="25YdkpUJAU9mzn-td6OZ" version="20.3.6" type="github">
   <diagram id="u7yg5y88VUfooyFI-_gg" name="Page-1">
-    <mxGraphModel dx="865" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,8 +52,8 @@
         <mxCell id="vaPnFBFoX6yv_8vDQfTk-14" value="Unskilled labor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="240" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vaPnFBFoX6yv_8vDQfTk-16" value="Unstandard performance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="276" width="140" height="30" as="geometry" />
+        <mxCell id="vaPnFBFoX6yv_8vDQfTk-16" value="Non standard performance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="276" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vaPnFBFoX6yv_8vDQfTk-17" value="Not integrated ERP system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="230" width="90" height="30" as="geometry" />
@@ -125,7 +125,7 @@
             <mxPoint x="275" y="394.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TWCd_17GJj0zQuz5EjzQ-2" value="Fishbone ERP" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TWCd_17GJj0zQuz5EjzQ-2" value="Fishbone for ERP" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="325" y="160" width="115" height="20" as="geometry" />
         </mxCell>
       </root>
