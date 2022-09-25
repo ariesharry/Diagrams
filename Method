@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-09-25T03:24:59.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.2" etag="Nj0bwN95gWpj3cvGYbJc" type="github"><diagram id="9HLhW9o5Pn7bnSsW2eLf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-25T04:08:29.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="yLMUodaz5wj5bY3mBbu3" version="20.3.2" type="github">
+  <diagram id="9HLhW9o5Pn7bnSsW2eLf" name="Page-1">
+    <mxGraphModel dx="1038" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5jKje8F0iwKBfb8MLztT-1" value="Problem identification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="204" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5jKje8F0iwKBfb8MLztT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5jKje8F0iwKBfb8MLztT-3" target="5jKje8F0iwKBfb8MLztT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5jKje8F0iwKBfb8MLztT-3" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="130" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5jKje8F0iwKBfb8MLztT-4" value="Data gathering" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="280" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5jKje8F0iwKBfb8MLztT-6" value="&lt;div&gt;Interview,&lt;/div&gt;&lt;div&gt;Document Collection&amp;nbsp;&lt;/div&gt;&lt;div&gt;(SOP, WI, Certificates),&lt;/div&gt;&lt;div&gt;HAS23000, BPJPH Halal&lt;/div&gt;&lt;div&gt;Standard&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="200.5" y="340" width="175" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="5jKje8F0iwKBfb8MLztT-7" value="System modelling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="164" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5jKje8F0iwKBfb8MLztT-8" value="Verification and validation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="300" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5jKje8F0iwKBfb8MLztT-9" value="&lt;div&gt;Use case diagram, BPMN diagram, Class diagam&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="230" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5jKje8F0iwKBfb8MLztT-11" value="Requirements anlysis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="213" y="440" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5jKje8F0iwKBfb8MLztT-12" value="&lt;div&gt;Fishbone Diagram&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="200.5" y="500" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5jKje8F0iwKBfb8MLztT-15" value="Results of veirfication and validation" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="360" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5jKje8F0iwKBfb8MLztT-16" value="Finish" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="440" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
