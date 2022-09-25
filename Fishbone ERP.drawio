@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-25T06:58:47.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="9sC8K5_eCO0eELx5JpAd" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-25T12:38:54.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="T3RAUyNLK5gxvaE79b-N" version="20.3.6" type="github">
   <diagram id="u7yg5y88VUfooyFI-_gg" name="Page-1">
-    <mxGraphModel dx="865" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,34 +46,34 @@
         <mxCell id="vaPnFBFoX6yv_8vDQfTk-11" value="MATERIAL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="450" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vaPnFBFoX6yv_8vDQfTk-12" value="Potential error, &lt;br&gt;no real time, ineffective, inefficient" style="shape=or;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+        <mxCell id="vaPnFBFoX6yv_8vDQfTk-12" value="High potential &lt;br&gt;for error, data inaccuracy&lt;br&gt;no real time, ineffective, and inefficient" style="shape=or;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="550" y="290" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vaPnFBFoX6yv_8vDQfTk-14" value="Unskilled labor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="240" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vaPnFBFoX6yv_8vDQfTk-16" value="Low accuracy &amp;amp; reliability" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="vaPnFBFoX6yv_8vDQfTk-16" value="Unstandard performance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="276" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vaPnFBFoX6yv_8vDQfTk-17" value="Not integrated ERP system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="230" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vaPnFBFoX6yv_8vDQfTk-19" value="Not accomodate the updated laws" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="290" width="100" height="30" as="geometry" />
+        <mxCell id="vaPnFBFoX6yv_8vDQfTk-19" value="Not accomodate the updated laws (BPJPH regulation)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="310" y="290" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vaPnFBFoX6yv_8vDQfTk-20" value="Manual encodoing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="250" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vaPnFBFoX6yv_8vDQfTk-21" value="ERP with limited modules only" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="vaPnFBFoX6yv_8vDQfTk-21" value="ERP with limited/ few modules only" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="146" y="376" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vaPnFBFoX6yv_8vDQfTk-22" value="Not an integrated data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="vaPnFBFoX6yv_8vDQfTk-22" value="Not an integrated data (Partial data)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="360" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vaPnFBFoX6yv_8vDQfTk-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="vaPnFBFoX6yv_8vDQfTk-22" target="vaPnFBFoX6yv_8vDQfTk-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vaPnFBFoX6yv_8vDQfTk-24" value="Paper work is needed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="vaPnFBFoX6yv_8vDQfTk-24" value="Paper work is still needed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="410" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vaPnFBFoX6yv_8vDQfTk-26" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="vaPnFBFoX6yv_8vDQfTk-14" edge="1">
@@ -124,6 +124,9 @@
             <mxPoint x="240" y="394.58" as="sourcePoint" />
             <mxPoint x="275" y="394.58" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TWCd_17GJj0zQuz5EjzQ-2" value="Fishbone ERP" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="160" width="115" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
