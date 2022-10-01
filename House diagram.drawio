@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-01T15:42:26.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="vSeBo7pYA9gPONQK7-eu" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-01T15:52:52.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ldrbJ84_p5ybDPWmGX6Y" version="20.3.6" type="github">
   <diagram id="bnTMfBkwKxqZEezGWf4d" name="Page-1">
     <mxGraphModel dx="1298" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="A6Dc-Se_RvrMV17zjB7O-9" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="502.5" y="-100" width="125" height="663.75" as="geometry" />
         </mxCell>
-        <mxCell id="A6Dc-Se_RvrMV17zjB7O-14" value="BRIN, Perguruan Tinggi. LNSW" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="A6Dc-Se_RvrMV17zjB7O-14" value="BRIN, Perguruan Tinggi, LNSW" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="415" y="602.37" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A6Dc-Se_RvrMV17zjB7O-16" value="Kementerian PPN/Bappenas&lt;br style=&quot;font-size: 18px;&quot;&gt;Badan Pangan Nasional" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
@@ -44,7 +44,7 @@
           <mxGeometry x="725" y="434.37" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A6Dc-Se_RvrMV17zjB7O-20" value="Gambar 1. &amp;nbsp;Para Pemangku Kepentingan dari Pemerintah, terkait Kedaulatan Pangan Nasional" style="text;whiteSpace=wrap;html=1;fontSize=20;fontStyle=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="310" y="660.37" width="520" height="40" as="geometry" />
+          <mxGeometry x="305" y="690" width="520" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A6Dc-Se_RvrMV17zjB7O-21" value="Kepolisian" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="886" y="426.55" width="150" height="45.63" as="geometry" />
@@ -57,6 +57,9 @@
             <mxPoint x="565" y="674.3699999999999" as="sourcePoint" />
             <mxPoint x="565" y="674.3699999999999" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="A6Dc-Se_RvrMV17zjB7O-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="150" width="940" height="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
