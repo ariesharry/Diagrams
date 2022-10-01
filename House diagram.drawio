@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-01T15:37:58.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="qvFfYL5NdLe6_kEBP4rW" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-01T15:39:08.729Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="M_FWjBx0Ep1-wOL18Z-p" version="20.3.6" type="github">
   <diagram id="bnTMfBkwKxqZEezGWf4d" name="Page-1">
-    <mxGraphModel dx="1093" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1597" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
           <mxGeometry x="310" y="660.37" width="520" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A6Dc-Se_RvrMV17zjB7O-21" value="Kepolisian" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="890" y="426.55" width="150" height="45.63" as="geometry" />
+          <mxGeometry x="886" y="426.55" width="150" height="45.63" as="geometry" />
         </mxCell>
         <mxCell id="A6Dc-Se_RvrMV17zjB7O-22" value="BIN, Kementerian Pertahanan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="90" y="426.55" width="150" height="45.63" as="geometry" />
