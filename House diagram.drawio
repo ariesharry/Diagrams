@@ -1,29 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2022-10-01T14:51:47.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="vSFo5btBJoj397C6xNQw" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-01T15:12:19.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="BKg9eathMVUeM0K90pqK" version="20.3.6" type="github">
   <diagram id="bnTMfBkwKxqZEezGWf4d" name="Page-1">
-    <mxGraphModel dx="1038" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1597" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="A6Dc-Se_RvrMV17zjB7O-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="660" width="690" height="50" as="geometry" />
+          <mxGeometry x="220" y="634.37" width="690" height="50" as="geometry" />
         </mxCell>
         <mxCell id="A6Dc-Se_RvrMV17zjB7O-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="610" width="690" height="50" as="geometry" />
+          <mxGeometry x="220" y="584.37" width="690" height="50" as="geometry" />
         </mxCell>
         <mxCell id="A6Dc-Se_RvrMV17zjB7O-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="360" width="180" height="250" as="geometry" />
+          <mxGeometry x="240" y="334.37" width="180" height="250" as="geometry" />
         </mxCell>
         <mxCell id="A6Dc-Se_RvrMV17zjB7O-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="320" width="200" height="40" as="geometry" />
+          <mxGeometry x="230" y="294.37" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A6Dc-Se_RvrMV17zjB7O-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="360" width="180" height="250" as="geometry" />
+          <mxGeometry x="710" y="334.37" width="180" height="250" as="geometry" />
         </mxCell>
         <mxCell id="A6Dc-Se_RvrMV17zjB7O-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="320" width="200" height="40" as="geometry" />
+          <mxGeometry x="700" y="294.37" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A6Dc-Se_RvrMV17zjB7O-9" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="362.5" y="-74.37" width="125" height="663.75" as="geometry" />
+          <mxGeometry x="502.5" y="-100" width="125" height="663.75" as="geometry" />
+        </mxCell>
+        <mxCell id="A6Dc-Se_RvrMV17zjB7O-14" value="BRIN, Perguruan Tinggi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="400" y="594.37" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A6Dc-Se_RvrMV17zjB7O-15" value="LNSW" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="490" y="644.37" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A6Dc-Se_RvrMV17zjB7O-16" value="Kementrian PPN&lt;br style=&quot;font-size: 18px;&quot;&gt;BAPPENAS&lt;br style=&quot;font-size: 18px;&quot;&gt;Badan Pangan Nasional" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="475" y="227.37" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A6Dc-Se_RvrMV17zjB7O-17" value="Kementrian Pertanian" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="434.37" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A6Dc-Se_RvrMV17zjB7O-18" value="Kementrian Perindustrian" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="490" y="434.37" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A6Dc-Se_RvrMV17zjB7O-19" value="Kementrian Perdagangan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="725" y="434.37" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A6Dc-Se_RvrMV17zjB7O-20" value="Stakeholder dari Pemerintah, untuk Kedaulatan Pangan Nasional" style="text;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="305" y="110" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A6Dc-Se_RvrMV17zjB7O-21" value="Kepolisian" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="890" y="426.55" width="150" height="45.63" as="geometry" />
+        </mxCell>
+        <mxCell id="A6Dc-Se_RvrMV17zjB7O-22" value="BIN, Kementrian Pertahanan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="90" y="426.55" width="150" height="45.63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
