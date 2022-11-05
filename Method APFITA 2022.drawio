@@ -1,1 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T14:31:53.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="O7gHv508ovock7cJAZxB" version="20.5.1" type="github"><diagram id="9HLhW9o5Pn7bnSsW2eLf" name="Page-1">7VrbcuI4EP0aqnYfsmVb2MAjt0mymcwwMDuXpy2BhVFKtryyCJCv35Ytx1cC2UBgp3jBVkvdtlrndLclGqjvr68FDhf33CWsYRnuuoEGDcsyDdSGi5JsEoljmYnAE9TVgzLBhD6RVFNLl9QlUWGg5JxJGhaFMx4EZCYLMiwEXxWHzTkrPjXEHqkIJjPMqtLv1JWLRNq2jUx+Q6i3SJ9sGrrHx+lgLYgW2OWrnAgNG6gvOJfJnb/uE6acl/ol0fuwpff5xQQJ5D4K9sPdA2l/MOjqrjeftu8/PsmvV9rKI2ZLPeGR4FNG/FgRLNM5nWFJeaAnITepZwRfBi5Rxo0G6q0WVJJJiGeqdwVYANlC+gxaJtxWXzZ9MhGSrHMi/fLXhPtEig0MSXst6w87UdJYQshOJatsbcx0bRa5dWlqGdZw8J7NZx6DG+201ziwXXEMcQFBusmFXHCPB5gNM2mv6LpszEfOQ+2wByLlRtMBLyUvupOsqfyh1GH+Setnrmew1pbjxiZtBDDfnJJq/sz3ZWpxK9XbunQRX4oZecE3SPMVC4/I3SBUfnsRCIIwgOJjkZkHX1FUocQEZiCry8wYBCHyPthHrRL2LceoIt+qQb59LORb6IL8bb5x9kX+eUHfqUC/YTkMJtBz6SPceup2TKIlyCCXCq7SxG0giXikBFJbNx0OT89p1Bjpc8YgXQMSoDTgs6UPLo6gE/uKPME0CnN6O639Nvk8algwZ+P7bXLtA7WS1EWi32PRnqZuuhMLGSqJKzO90Z+jG7jeYIbZ3jYgXgQuFu42hRJroDAI1S0ADYNXGPcE9mFgSASFdSWi3DfKOnbFnjldk7SqOlAsQqich2tjUcuuxqK2/Xbg3ncH3fGTObgb9gbzv6+m3/xgeWVfQtE2Trf2DEWds4pErWoS3kQyLkt99Y3BaOCdvCK1nRIPWjU8qKtGnQPk5FoedC482IHv3SnZOSsidPZJyb3R/SeVSCmOU8cr0l2f4SjKq/6KGctOOZh+N9bxtH2k2rmWp5fSeWdJvJuo1lkR1axupYzJP0sqiK5tDQyLtYlodPK8hZqlfZT2qfOWdUo+mDk2ZNyo58MbcG3tievWoWEdq3aFwJvcgJDTGJXPlkdKkGGk2SnGTNuw86tcGW+jt41HhlFCUfLGGaaep/4Gjlr7ZNO/IqK+IHF8GfzKiRE1i4vQrAsEzrtup1a3IIaBW40O77j3ZrdLTrI7VScda+etNlqedMv5NdEyqx4KtUNWShy8ekjXYWeUPXiV/5+iLDLLUbN0hrNjPDLQ8aNm6tMcJwdYYpB4WC4ggJ3Bp3j1cKg2lh3raOjL56Zg46DJhR9eb27nK8NxL0X+dtfsW+On0Hv/Gv+l184R4VafkcYb2enRqdoHNz5xZS2QBNJ8ss89HOtN6qDSdcu/wu8USg7VSre6/t/FhWlWzms7Vk150a5S0nFevYDQzI7Sk8iX/SEBDf8F</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-05T14:34:58.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="_o-9pnQTc2aQss3oatmB" version="20.5.1" type="github">
+  <diagram id="9HLhW9o5Pn7bnSsW2eLf" name="Page-1">
+    <mxGraphModel dx="716" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6f0CiBEKn8yLZkK9ElFh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5jKje8F0iwKBfb8MLztT-1" target="QO4rlRn4ormpGyIfw06d-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5jKje8F0iwKBfb8MLztT-1" value="Problem identification" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="122.5" y="335.5" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5jKje8F0iwKBfb8MLztT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5jKje8F0iwKBfb8MLztT-3" target="5jKje8F0iwKBfb8MLztT-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5jKje8F0iwKBfb8MLztT-3" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="137.5" y="260" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5jKje8F0iwKBfb8MLztT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5jKje8F0iwKBfb8MLztT-6" target="5jKje8F0iwKBfb8MLztT-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5jKje8F0iwKBfb8MLztT-6" value="&lt;div&gt;Result from Interview:&lt;/div&gt;&lt;div&gt;Collected documents&amp;nbsp;&lt;/div&gt;&lt;div&gt;(SOP, WI, Certificates),&lt;/div&gt;&lt;div&gt;HAS23000, BPJPH Halal&lt;/div&gt;&lt;div&gt;Standard&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="338" y="260" width="175" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="MADARz1DKEBDf_-bVmnu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5jKje8F0iwKBfb8MLztT-7" target="5jKje8F0iwKBfb8MLztT-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5jKje8F0iwKBfb8MLztT-7" value="System modelling" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="565" y="270" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MADARz1DKEBDf_-bVmnu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5jKje8F0iwKBfb8MLztT-9" target="5jKje8F0iwKBfb8MLztT-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5jKje8F0iwKBfb8MLztT-9" value="&lt;div&gt;BPMN diagram,&lt;/div&gt;&lt;div&gt;Class diagram&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="370" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MADARz1DKEBDf_-bVmnu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5jKje8F0iwKBfb8MLztT-11" target="5jKje8F0iwKBfb8MLztT-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5jKje8F0iwKBfb8MLztT-11" value="Requirements analysis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="345" y="380" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MADARz1DKEBDf_-bVmnu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="5jKje8F0iwKBfb8MLztT-12" target="5jKje8F0iwKBfb8MLztT-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="505" />
+              <mxPoint x="530" y="505" />
+              <mxPoint x="530" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5jKje8F0iwKBfb8MLztT-12" value="&lt;div&gt;Use Case Diagram&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="480" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5jKje8F0iwKBfb8MLztT-16" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="459" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MADARz1DKEBDf_-bVmnu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5jKje8F0iwKBfb8MLztT-20" target="5jKje8F0iwKBfb8MLztT-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="500" />
+              <mxPoint x="310" y="303" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5jKje8F0iwKBfb8MLztT-20" value="Data gathering" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="122.5" y="480" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QO4rlRn4ormpGyIfw06d-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QO4rlRn4ormpGyIfw06d-1" target="5jKje8F0iwKBfb8MLztT-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QO4rlRn4ormpGyIfw06d-1" value="Identified Problem: No integrated ERP System" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="113.5" y="400" width="168" height="48" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
