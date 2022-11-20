@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-09-25T12:23:34.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Tn2yBCZy2oldv4WRXClf" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-20T07:59:19.115Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="KMDaKnAOLRA0dPuSHse0" version="20.5.3" type="github">
   <diagram id="9HLhW9o5Pn7bnSsW2eLf" name="Page-1">
     <mxGraphModel dx="1038" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QO4rlRn4ormpGyIfw06d-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5jKje8F0iwKBfb8MLztT-1" target="QO4rlRn4ormpGyIfw06d-1">
+        <mxCell id="QO4rlRn4ormpGyIfw06d-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5jKje8F0iwKBfb8MLztT-1" target="QO4rlRn4ormpGyIfw06d-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5jKje8F0iwKBfb8MLztT-1" value="Problem identification" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -52,7 +52,7 @@
         <mxCell id="5jKje8F0iwKBfb8MLztT-11" value="Requirements analysis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="213" y="535" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QO4rlRn4ormpGyIfw06d-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5jKje8F0iwKBfb8MLztT-12" target="5jKje8F0iwKBfb8MLztT-7">
+        <mxCell id="QO4rlRn4ormpGyIfw06d-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5jKje8F0iwKBfb8MLztT-12" target="5jKje8F0iwKBfb8MLztT-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5jKje8F0iwKBfb8MLztT-12" value="&lt;div&gt;Fishbone Diagram&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
@@ -67,17 +67,17 @@
         <mxCell id="5jKje8F0iwKBfb8MLztT-16" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="469" y="517" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QO4rlRn4ormpGyIfw06d-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5jKje8F0iwKBfb8MLztT-20" target="5jKje8F0iwKBfb8MLztT-6">
+        <mxCell id="QO4rlRn4ormpGyIfw06d-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5jKje8F0iwKBfb8MLztT-20" target="5jKje8F0iwKBfb8MLztT-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5jKje8F0iwKBfb8MLztT-20" value="Data gathering" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="215" y="356" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QO4rlRn4ormpGyIfw06d-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QO4rlRn4ormpGyIfw06d-1" target="5jKje8F0iwKBfb8MLztT-20">
+        <mxCell id="QO4rlRn4ormpGyIfw06d-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QO4rlRn4ormpGyIfw06d-1" target="5jKje8F0iwKBfb8MLztT-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QO4rlRn4ormpGyIfw06d-1" value="Identified Problem: No integrated ERP, no integrated IoT based System" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="207.5" y="268" width="168" height="66" as="geometry" />
+        <mxCell id="QO4rlRn4ormpGyIfw06d-1" value="Identified Problem: NO integrated Halal ERP System" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="201.75" y="268" width="172.5" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
