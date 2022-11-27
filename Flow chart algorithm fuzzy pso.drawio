@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-27T11:54:52.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="nkaDaIeeLDQ7u0EVdOPH" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-27T11:55:56.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="hrWNsLvNwiHeYQVwUGHR" version="20.5.3" type="github">
   <diagram id="V7773tDBni7tDccopga4" name="Page-1">
     <mxGraphModel dx="1384" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -67,14 +67,23 @@
         <mxCell id="CAwxgtLnj9NDJVXJTkvP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CAwxgtLnj9NDJVXJTkvP-5" target="CAwxgtLnj9NDJVXJTkvP-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CAwxgtLnj9NDJVXJTkvP-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="CAwxgtLnj9NDJVXJTkvP-14" target="CAwxgtLnj9NDJVXJTkvP-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CAwxgtLnj9NDJVXJTkvP-14" value="Initialize the weights for each member function" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="200" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CAwxgtLnj9NDJVXJTkvP-15" value="Fuzzy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="720" y="160" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CAwxgtLnj9NDJVXJTkvP-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="CAwxgtLnj9NDJVXJTkvP-16" target="CAwxgtLnj9NDJVXJTkvP-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CAwxgtLnj9NDJVXJTkvP-16" value="Fuzzification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CAwxgtLnj9NDJVXJTkvP-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="CAwxgtLnj9NDJVXJTkvP-17" target="CAwxgtLnj9NDJVXJTkvP-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CAwxgtLnj9NDJVXJTkvP-17" value="Inference" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="420" width="120" height="40" as="geometry" />
@@ -99,6 +108,9 @@
         </mxCell>
         <mxCell id="CAwxgtLnj9NDJVXJTkvP-26" value="Load CPO price dataset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="125" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CAwxgtLnj9NDJVXJTkvP-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="CAwxgtLnj9NDJVXJTkvP-29" target="CAwxgtLnj9NDJVXJTkvP-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CAwxgtLnj9NDJVXJTkvP-29" value="Optimize the weight of each membership function" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="339" width="120" height="61" as="geometry" />
