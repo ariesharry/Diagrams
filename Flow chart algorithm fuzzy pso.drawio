@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-27T23:11:37.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Sr9sHBQMj9Idvbi2foxP" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-27T23:12:20.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="O8BSwSjAGK8eMiThFGxD" version="20.5.3" type="github">
   <diagram id="V7773tDBni7tDccopga4" name="Page-1">
-    <mxGraphModel dx="1384" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="944" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,9 +47,6 @@
         </mxCell>
         <mxCell id="CAwxgtLnj9NDJVXJTkvP-6" value="Update gbest and pbest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="315" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CAwxgtLnj9NDJVXJTkvP-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="CAwxgtLnj9NDJVXJTkvP-7" target="CAwxgtLnj9NDJVXJTkvP-8">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CAwxgtLnj9NDJVXJTkvP-7" value="Update position and speed of particles" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="369" width="120" height="40" as="geometry" />
