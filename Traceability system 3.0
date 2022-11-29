@@ -1,11 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T03:00:29.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="58JDQ0e_cE1aM_m-4Gv0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T03:07:30.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="yRcb2ZP2mR5HvxdAN24m" type="github">
   <diagram id="-cGT6FSn36B9RnxX70wg" name="Page-1">
     <mxGraphModel dx="1038" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9znQ5LgDEHwwXcJMSZru-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://slideplayer.com/slide/5829398/19/images/68/Schematic+of+MIS+Marketing+management+Manufacturing+management.jpg;clipPath=inset(26% 6% 10% 7.33%);" vertex="1" parent="1">
-          <mxGeometry x="310" y="130" width="520" height="288" as="geometry" />
+          <mxGeometry x="290" y="40" width="520" height="288" as="geometry" />
+        </mxCell>
+        <mxCell id="9znQ5LgDEHwwXcJMSZru-2" value="Central Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="480" y="440" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9znQ5LgDEHwwXcJMSZru-3" value="Manufacturing management system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9znQ5LgDEHwwXcJMSZru-4" value="Order management information system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9znQ5LgDEHwwXcJMSZru-5" value="Marketing management information system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9znQ5LgDEHwwXcJMSZru-6" value="Financial management system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9znQ5LgDEHwwXcJMSZru-7" value="Management Information System (MIS)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="450" y="570" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9znQ5LgDEHwwXcJMSZru-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=37.5;exitPerimeter=0;" edge="1" parent="1" source="9znQ5LgDEHwwXcJMSZru-2" target="9znQ5LgDEHwwXcJMSZru-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="460" as="sourcePoint" />
+            <mxPoint x="560" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9znQ5LgDEHwwXcJMSZru-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=82.5;exitPerimeter=0;" edge="1" parent="1" source="9znQ5LgDEHwwXcJMSZru-2" target="9znQ5LgDEHwwXcJMSZru-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="487.5" as="sourcePoint" />
+            <mxPoint x="670" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9znQ5LgDEHwwXcJMSZru-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=37.5;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="9znQ5LgDEHwwXcJMSZru-5" target="9znQ5LgDEHwwXcJMSZru-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="487.5" as="sourcePoint" />
+            <mxPoint x="670" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9znQ5LgDEHwwXcJMSZru-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=82.5;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="9znQ5LgDEHwwXcJMSZru-6" target="9znQ5LgDEHwwXcJMSZru-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="415" as="sourcePoint" />
+            <mxPoint x="490" y="487.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
