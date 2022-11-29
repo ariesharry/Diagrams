@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T02:49:29.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="R8_m037l3LF0LQ8cBYG6" type="github"><diagram id="C3XZa-LoPhQRrX7A2L1y">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-29T03:00:29.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="58JDQ0e_cE1aM_m-4Gv0" type="github">
+  <diagram id="-cGT6FSn36B9RnxX70wg" name="Page-1">
+    <mxGraphModel dx="1038" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9znQ5LgDEHwwXcJMSZru-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://slideplayer.com/slide/5829398/19/images/68/Schematic+of+MIS+Marketing+management+Manufacturing+management.jpg;clipPath=inset(26% 6% 10% 7.33%);" vertex="1" parent="1">
+          <mxGeometry x="310" y="130" width="520" height="288" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
