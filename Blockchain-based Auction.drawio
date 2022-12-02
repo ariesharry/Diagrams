@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T08:40:45.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="48VloPMzqrtTRXrPTY1q" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-02T09:23:02.192Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="tzrQtVrz4oDEJyBs8PyA" version="20.6.0" type="github">
   <diagram id="-lC1rfxS8L96Ydqc-us9" name="Page-1">
-    <mxGraphModel dx="1483" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,23 +73,23 @@
         <mxCell id="CG_vu4DfHehAq0VQgPQY-8" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/vpc/BlockStorage.svg;strokeColor=default;strokeWidth=2;fillColor=none;imageBackground=default;" vertex="1" parent="1">
           <mxGeometry x="591" y="590" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CG_vu4DfHehAq0VQgPQY-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fontSize=25;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="724.57" y="690" width="165.43" height="64" as="geometry" />
+        <mxCell id="CG_vu4DfHehAq0VQgPQY-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=1;fontSize=25;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="724.57" y="690" width="185.43" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="CG_vu4DfHehAq0VQgPQY-11" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fontSize=25;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="952.87" y="690" width="165.43" height="64" as="geometry" />
+        <mxCell id="CG_vu4DfHehAq0VQgPQY-11" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fontSize=25;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="930" y="690" width="188.3" height="64" as="geometry" />
         </mxCell>
         <mxCell id="CG_vu4DfHehAq0VQgPQY-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;On-Chain&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=20;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="745.93" y="693" width="122.72" height="18" as="geometry" />
+          <mxGeometry x="756.43" y="693" width="122.72" height="18" as="geometry" />
         </mxCell>
         <mxCell id="CG_vu4DfHehAq0VQgPQY-13" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Off-Chain&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=20;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="974.23" y="693" width="122.72" height="18" as="geometry" />
+          <mxGeometry x="962.79" y="693" width="122.72" height="18" as="geometry" />
         </mxCell>
         <mxCell id="CG_vu4DfHehAq0VQgPQY-14" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Blockchain&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=21;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="744.93" y="720" width="122.72" height="18" as="geometry" />
+          <mxGeometry x="755.43" y="720" width="122.72" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="CG_vu4DfHehAq0VQgPQY-15" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;PostgreeSQL&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=21;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="974.23" y="720" width="122.72" height="18" as="geometry" />
+        <mxCell id="CG_vu4DfHehAq0VQgPQY-15" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;PostgreSQL&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=21;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="962.79" y="720" width="122.72" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
