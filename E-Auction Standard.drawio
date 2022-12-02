@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T07:08:20.985Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="a1TYbd4TEbX5XTWd5nmq" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-02T07:17:48.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="v-q6AebE3pGYLdI0K8aa" version="20.6.0" type="github">
   <diagram id="-lC1rfxS8L96Ydqc-us9" name="Page-1">
-    <mxGraphModel dx="944" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1384" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,6 +66,18 @@
         </mxCell>
         <mxCell id="iFU5tl9R6KZrdiB1V4sH-2" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.application_store;" vertex="1" parent="1">
           <mxGeometry x="750.73" y="652" width="40" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="iFU5tl9R6KZrdiB1V4sH-5" value="Bid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="958.3" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iFU5tl9R6KZrdiB1V4sH-6" value="Data &amp;amp; Currencies" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="888.3" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iFU5tl9R6KZrdiB1V4sH-7" value="Create Auction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="670" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iFU5tl9R6KZrdiB1V4sH-9" value="Data &amp;amp; Currencies" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="750.73" y="450" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
