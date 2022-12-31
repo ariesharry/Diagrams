@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-31T13:33:01.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="YauU-Vgiu5GbU7xwd-pe" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-31T13:35:45.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="pF6Y06jyPXFb6rkLcyy_" type="github">
   <diagram id="_LS9YpCe_xg42UgXGaqf" name="Page-1">
-    <mxGraphModel dx="724" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="270" y="340" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kaol6DMg58NmLU8iuL14-2" value="Blockchain" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="490" y="340" width="150" height="60" as="geometry" />
+          <mxGeometry x="488" y="340" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kaol6DMg58NmLU8iuL14-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png;" vertex="1" parent="1">
           <mxGeometry x="313.29" y="370" width="63.42" height="20" as="geometry" />
@@ -28,7 +28,7 @@
         <mxCell id="Kaol6DMg58NmLU8iuL14-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cms.rootstack.com/sites/default/files/inline-images/React_0.png;clipPath=inset(17.32% 12.33% 17.97% 16.67%);" vertex="1" parent="1">
           <mxGeometry x="400" y="190" width="86.06" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Kaol6DMg58NmLU8iuL14-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kaol6DMg58NmLU8iuL14-1" target="Kaol6DMg58NmLU8iuL14-9">
+        <mxCell id="Kaol6DMg58NmLU8iuL14-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kaol6DMg58NmLU8iuL14-1" target="Kaol6DMg58NmLU8iuL14-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="310" as="sourcePoint" />
             <mxPoint x="500" y="260" as="targetPoint" />
@@ -41,22 +41,43 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Kaol6DMg58NmLU8iuL14-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/2048px-MetaMask_Fox.svg.png;" vertex="1" parent="1">
-          <mxGeometry x="490" y="270" width="40" height="40" as="geometry" />
+          <mxGeometry x="495" y="267" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Kaol6DMg58NmLU8iuL14-14" value="JSON RPC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="320" y="260" width="60" height="20" as="geometry" />
+          <mxGeometry x="332" y="267" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Kaol6DMg58NmLU8iuL14-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kaol6DMg58NmLU8iuL14-13" target="Kaol6DMg58NmLU8iuL14-9">
+        <mxCell id="Kaol6DMg58NmLU8iuL14-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kaol6DMg58NmLU8iuL14-13" target="Kaol6DMg58NmLU8iuL14-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="579.95" y="330" as="sourcePoint" />
             <mxPoint x="536.06" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Kaol6DMg58NmLU8iuL14-16" value="Web3.Js" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="473.03" y="240" width="60" height="20" as="geometry" />
+          <mxGeometry x="480.03" y="240" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Kaol6DMg58NmLU8iuL14-17" value="Eth endpoint" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="563.03" y="310" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Kaol6DMg58NmLU8iuL14-18" value="Buyer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="376.71" y="50" width="23" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Kaol6DMg58NmLU8iuL14-20" value="Seller" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="480.03" y="50" width="23" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Kaol6DMg58NmLU8iuL14-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=10;exitX=0.613;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Kaol6DMg58NmLU8iuL14-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="150" as="sourcePoint" />
+            <mxPoint x="480" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kaol6DMg58NmLU8iuL14-22" value="Metamask" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="530" y="274" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Kaol6DMg58NmLU8iuL14-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=10;exitX=0.354;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Kaol6DMg58NmLU8iuL14-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="469.98" y="180" as="sourcePoint" />
+            <mxPoint x="400" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
