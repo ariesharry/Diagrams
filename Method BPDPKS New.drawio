@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T02:53:24.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Snlxboq8axEVjYuzTXR3" version="20.8.21" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T05:06:46.102Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="2ZMboiG47CmHEPSrPA2J" version="20.8.21" type="github">
   <diagram id="9HLhW9o5Pn7bnSsW2eLf" name="Page-1">
-    <mxGraphModel dx="1615" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1615" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -144,20 +144,20 @@
         <mxCell id="ZeT_8LXsEwuCCdMTnaNI-9" value="Mendesain Functional/Operational Architecture&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="147.88" y="540" width="212.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZeT_8LXsEwuCCdMTnaNI-29" value="Tahap 1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="-11.75" y="224" width="120.75" height="35" as="geometry" />
+        <mxCell id="ZeT_8LXsEwuCCdMTnaNI-29" value="Tujuan 1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-115.87" y="328.13" width="329" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="ZeT_8LXsEwuCCdMTnaNI-28" value="Requirements Engineering" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontStyle=0;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="ZeT_8LXsEwuCCdMTnaNI-28" value="Requirements Analysis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontStyle=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="120" y="400" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZeT_8LXsEwuCCdMTnaNI-31" value="Tahap 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="741.32" y="220" width="120.75" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="ZeT_8LXsEwuCCdMTnaNI-32" value="Tahap 3 Desain Sistem" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="-230.87" y="599.13" width="559" height="35" as="geometry" />
+          <mxGeometry x="-111.8" y="718.2" width="320.87" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ZeT_8LXsEwuCCdMTnaNI-33" value="Desain Arsitektur Sistem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontStyle=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="-40" y="690" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeT_8LXsEwuCCdMTnaNI-34" value="Evaluasi Sistem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontStyle=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="320" y="688.2" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
