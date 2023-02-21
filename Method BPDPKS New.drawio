@@ -1,0 +1,105 @@
+<mxfile host="app.diagrams.net" modified="2023-02-21T02:26:59.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="d4okClkOWMcMMpADwrtH" version="20.8.21" type="github">
+  <diagram id="9HLhW9o5Pn7bnSsW2eLf" name="Page-1">
+    <mxGraphModel dx="1050" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5jKje8F0iwKBfb8MLztT-3" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5jKje8F0iwKBfb8MLztT-16" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="990" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YmFkH0KrsYM-fxtj9EKp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="tW3wjYKGY_-DUdyRMUnM-2" target="YmFkH0KrsYM-fxtj9EKp-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tW3wjYKGY_-DUdyRMUnM-2" value="&lt;span lang=&quot;EN-US&quot;&gt;Menentukan &lt;i&gt;Functional &lt;/i&gt;dan Non-&lt;i&gt;Functional&lt;/i&gt; &lt;i&gt;requirements&lt;/i&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="289" y="370" width="271" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmFkH0KrsYM-fxtj9EKp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tW3wjYKGY_-DUdyRMUnM-6" target="YmFkH0KrsYM-fxtj9EKp-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tW3wjYKGY_-DUdyRMUnM-6" value="Use case diagram" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="690" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmFkH0KrsYM-fxtj9EKp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tW3wjYKGY_-DUdyRMUnM-8" target="tW3wjYKGY_-DUdyRMUnM-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tW3wjYKGY_-DUdyRMUnM-8" value="BPMN to be" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="830" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmFkH0KrsYM-fxtj9EKp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tW3wjYKGY_-DUdyRMUnM-9" target="tW3wjYKGY_-DUdyRMUnM-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tW3wjYKGY_-DUdyRMUnM-9" value="Designing physical architecture" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="297.5" y="900" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tW3wjYKGY_-DUdyRMUnM-10" value="Class diagram" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="970" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tW3wjYKGY_-DUdyRMUnM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tW3wjYKGY_-DUdyRMUnM-11" target="tW3wjYKGY_-DUdyRMUnM-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tW3wjYKGY_-DUdyRMUnM-11" value="&amp;nbsp;Prototyping" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="535" y="690" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tW3wjYKGY_-DUdyRMUnM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tW3wjYKGY_-DUdyRMUnM-12" target="tW3wjYKGY_-DUdyRMUnM-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tW3wjYKGY_-DUdyRMUnM-12" value="System prototype" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="527.5" y="750" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmFkH0KrsYM-fxtj9EKp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tW3wjYKGY_-DUdyRMUnM-13" target="YmFkH0KrsYM-fxtj9EKp-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tW3wjYKGY_-DUdyRMUnM-13" value="Testing" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="535" y="810" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tW3wjYKGY_-DUdyRMUnM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tW3wjYKGY_-DUdyRMUnM-14" target="5jKje8F0iwKBfb8MLztT-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tW3wjYKGY_-DUdyRMUnM-14" value="System evaluation results" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="527.5" y="930" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmFkH0KrsYM-fxtj9EKp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="YmFkH0KrsYM-fxtj9EKp-1" target="YmFkH0KrsYM-fxtj9EKp-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YmFkH0KrsYM-fxtj9EKp-1" value="&lt;span lang=&quot;EN-US&quot;&gt;Mendesain Struktur&amp;nbsp;&lt;br&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;Functional&amp;nbsp;&lt;/i&gt;dan Non-&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;Functional&lt;/i&gt;&amp;nbsp;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;requirements&lt;/i&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="289" y="436" width="271" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmFkH0KrsYM-fxtj9EKp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YmFkH0KrsYM-fxtj9EKp-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YmFkH0KrsYM-fxtj9EKp-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Dokumen Requirements&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="500" width="290" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="YmFkH0KrsYM-fxtj9EKp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="YmFkH0KrsYM-fxtj9EKp-3" target="tW3wjYKGY_-DUdyRMUnM-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YmFkH0KrsYM-fxtj9EKp-3" value="Designing logical architecture&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="297.5" y="760" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmFkH0KrsYM-fxtj9EKp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="YmFkH0KrsYM-fxtj9EKp-6" target="tW3wjYKGY_-DUdyRMUnM-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YmFkH0KrsYM-fxtj9EKp-6" value="Verification and validation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="535" y="870" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeT_8LXsEwuCCdMTnaNI-1" value="Identifikasi Profile &lt;i&gt;Supplier &lt;/i&gt;(PTPN) dan &lt;i&gt;Buyer&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="108" y="200" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeT_8LXsEwuCCdMTnaNI-2" value="Metadata Profile &lt;i&gt;Supplier &lt;/i&gt;dan &lt;i&gt;Buyer &lt;/i&gt;untuk OnChain Data" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="108" y="270" width="260.5" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeT_8LXsEwuCCdMTnaNI-3" value="Identifikasi SOP, Peraturan Perundangan terkait Proses Lelang CPO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="462.63" y="200" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeT_8LXsEwuCCdMTnaNI-4" value="Dokumen BPMN Diagram&amp;nbsp; Existing Sistem Lelang CPO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="462.63" y="270" width="267.75" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
