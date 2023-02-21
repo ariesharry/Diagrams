@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T05:06:46.102Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="2ZMboiG47CmHEPSrPA2J" version="20.8.21" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T05:07:17.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="pf3kkbkYIyhGzdyy-dE8" version="20.8.21" type="github">
   <diagram id="9HLhW9o5Pn7bnSsW2eLf" name="Page-1">
     <mxGraphModel dx="1615" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -150,14 +150,17 @@
         <mxCell id="ZeT_8LXsEwuCCdMTnaNI-28" value="Requirements Analysis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontStyle=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="120" y="400" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZeT_8LXsEwuCCdMTnaNI-32" value="Tahap 3 Desain Sistem" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="-111.8" y="718.2" width="320.87" height="35" as="geometry" />
+        <mxCell id="ZeT_8LXsEwuCCdMTnaNI-32" value="Tujuan 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-120.9" y="699.1" width="339.07" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ZeT_8LXsEwuCCdMTnaNI-33" value="Desain Arsitektur Sistem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontStyle=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="-40" y="690" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZeT_8LXsEwuCCdMTnaNI-34" value="Evaluasi Sistem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontStyle=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="320" y="688.2" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeT_8LXsEwuCCdMTnaNI-35" value="Tujuan 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="620" y="690" width="320.87" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
