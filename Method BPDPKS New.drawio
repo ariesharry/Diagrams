@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T01:03:23.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="bncP1udk9ZomEc4TsfOV" version="20.8.21" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T01:06:25.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="f-YCLyDipmAcD3t9OcE2" version="20.8.21" type="github">
   <diagram id="9HLhW9o5Pn7bnSsW2eLf" name="Page-1">
     <mxGraphModel dx="1050" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="YmFkH0KrsYM-fxtj9EKp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="tW3wjYKGY_-DUdyRMUnM-2" target="YmFkH0KrsYM-fxtj9EKp-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tW3wjYKGY_-DUdyRMUnM-2" value="&lt;span lang=&quot;EN-US&quot;&gt;Menentukan &lt;i&gt;Functional &lt;/i&gt;dan Non-&lt;i&gt;Functional&lt;/i&gt; &lt;i&gt;requirements&lt;/i&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tW3wjYKGY_-DUdyRMUnM-2" value="&lt;span lang=&quot;EN-US&quot;&gt;Menentukan &lt;i&gt;Functional (services)&amp;nbsp;&lt;/i&gt;dan Non-&lt;i&gt;Functional&lt;/i&gt;&amp;nbsp;(&lt;i&gt;indicators&lt;/i&gt;)&amp;nbsp;&lt;i&gt;requirements&amp;nbsp;&lt;/i&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="289" y="340" width="271" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZeT_8LXsEwuCCdMTnaNI-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="tW3wjYKGY_-DUdyRMUnM-8" target="tW3wjYKGY_-DUdyRMUnM-9" edge="1">
@@ -43,19 +43,19 @@
         <mxCell id="ZeT_8LXsEwuCCdMTnaNI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tW3wjYKGY_-DUdyRMUnM-11" target="tW3wjYKGY_-DUdyRMUnM-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tW3wjYKGY_-DUdyRMUnM-11" value="&amp;nbsp;Prototyping" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tW3wjYKGY_-DUdyRMUnM-11" value="&amp;nbsp;Fully Functional Prototyping" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520.38" y="565" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tW3wjYKGY_-DUdyRMUnM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tW3wjYKGY_-DUdyRMUnM-12" target="tW3wjYKGY_-DUdyRMUnM-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tW3wjYKGY_-DUdyRMUnM-12" value="Prototype Sistem Lelang &lt;br&gt;Berbasis Blockchain" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="tW3wjYKGY_-DUdyRMUnM-12" value="Prototype ekosistem Lelang &lt;br&gt;Berbasis Blockchain" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="520.38" y="625" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YmFkH0KrsYM-fxtj9EKp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tW3wjYKGY_-DUdyRMUnM-13" target="YmFkH0KrsYM-fxtj9EKp-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tW3wjYKGY_-DUdyRMUnM-13" value="Testing" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tW3wjYKGY_-DUdyRMUnM-13" value="Testing untuk semua komunitas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520.38" y="685" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tW3wjYKGY_-DUdyRMUnM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tW3wjYKGY_-DUdyRMUnM-14" target="5jKje8F0iwKBfb8MLztT-16" edge="1">
@@ -90,8 +90,8 @@
         <mxCell id="YmFkH0KrsYM-fxtj9EKp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="YmFkH0KrsYM-fxtj9EKp-6" target="tW3wjYKGY_-DUdyRMUnM-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YmFkH0KrsYM-fxtj9EKp-6" value="Verifikasi dan Validasi Model" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520.38" y="745" width="210" height="40" as="geometry" />
+        <mxCell id="YmFkH0KrsYM-fxtj9EKp-6" value="Verifikasi dan Validasi Model pada semua lapisan komunitas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520.38" y="743.2" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZeT_8LXsEwuCCdMTnaNI-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZeT_8LXsEwuCCdMTnaNI-1" target="ZeT_8LXsEwuCCdMTnaNI-2" edge="1">
           <mxGeometry relative="1" as="geometry">
