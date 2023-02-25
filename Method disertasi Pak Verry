@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T13:36:28.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="TYsZ9ACd-Ay2kx3TL583" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-25T13:42:26.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="itk6IhcizFE1kG5xCRPJ" version="20.8.23" type="github">
   <diagram name="Page-1" id="W8YjgsbN5ucaRf8NNS71">
-    <mxGraphModel dx="2100" dy="1246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,9 +95,9 @@
         <mxCell id="RCOQ-lBabiPZlflxlnSV-12" value="Publikasi Artikel Jurnal Internasional Bereputasi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="413" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RCOQ-lBabiPZlflxlnSV-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RCOQ-lBabiPZlflxlnSV-13">
+        <mxCell id="RCOQ-lBabiPZlflxlnSV-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RCOQ-lBabiPZlflxlnSV-13" target="RCOQ-lBabiPZlflxlnSV-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="503" as="targetPoint" />
+            <mxPoint x="560" y="510" as="targetPoint" />
             <Array as="points">
               <mxPoint x="640" y="483" />
               <mxPoint x="560" y="483" />
@@ -159,13 +159,13 @@
         <mxCell id="RCOQ-lBabiPZlflxlnSV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RCOQ-lBabiPZlflxlnSV-31" target="RCOQ-lBabiPZlflxlnSV-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="730" y="485" />
+              <mxPoint x="730" y="530" />
               <mxPoint x="730" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RCOQ-lBabiPZlflxlnSV-31" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="545" y="503" width="30" height="30" as="geometry" />
+          <mxGeometry x="545" y="515" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RCOQ-lBabiPZlflxlnSV-40" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="510" width="75" height="40" as="geometry" />
