@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T02:52:27.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="U9V2XXraGBXq9Nctx9Ci" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T02:55:44.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="c8ohXLPco_7Qp86-w7Cm" version="20.8.23" type="github">
   <diagram name="Page-1" id="1mt67FsdalOx4ZbPbBud">
     <mxGraphModel dx="1235" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="krQfUPi8XmGis0sFBC_J-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="krQfUPi8XmGis0sFBC_J-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="140" y="60" width="580" height="321" as="geometry" />
         </mxCell>
         <mxCell id="krQfUPi8XmGis0sFBC_J-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
@@ -211,7 +211,7 @@
         <mxCell id="krQfUPi8XmGis0sFBC_J-76" value="CPO auction ecosystem environment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="520" y="351" width="162.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="krQfUPi8XmGis0sFBC_J-77" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="krQfUPi8XmGis0sFBC_J-77" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="140" y="400" width="580" height="400" as="geometry" />
         </mxCell>
         <mxCell id="krQfUPi8XmGis0sFBC_J-78" value="Digital Ecosystem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
@@ -292,6 +292,12 @@
               <mxPoint x="280" y="593" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="krQfUPi8XmGis0sFBC_J-108" value="Business Layer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;rotation=-90;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-53.25" y="202.75" width="321.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="krQfUPi8XmGis0sFBC_J-109" value="Digital Layer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;rotation=-90;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-91.25" y="583.25" width="398" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
