@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T16:28:00.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="kYMYt37VzaOn2KoF-cIH" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T16:29:42.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="lPaHv_9m7v12n4WXJq0C" version="21.0.2" type="github">
   <diagram name="Page-1" id="L7a4Y4y0EGQeiA3FOZRE">
     <mxGraphModel dx="1235" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -91,11 +91,17 @@
         <mxCell id="dxHy4Z045SqiEhhMiuPx-5" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&amp;nbsp;Docker Virtual Environment (1 orderer node, 3 peer node)&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="442.5" y="75" width="330" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dxHy4Z045SqiEhhMiuPx-6" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;b&gt;Hardware&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="85" width="80" height="40" as="geometry" />
+        <mxCell id="dxHy4Z045SqiEhhMiuPx-6" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="85" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dxHy4Z045SqiEhhMiuPx-7" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;b&gt;Software&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="300" width="80" height="40" as="geometry" />
+        <mxCell id="dxHy4Z045SqiEhhMiuPx-7" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dxHy4Z045SqiEhhMiuPx-8" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Hardware&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="60" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dxHy4Z045SqiEhhMiuPx-9" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;Software&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="160" width="90" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
