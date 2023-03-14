@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T08:06:00.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="6GBiX_S3KmMRgq_0Al76" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T08:10:42.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="lmAMIjL1BozvTpVK6LLG" version="21.0.2" type="github">
   <diagram name="Page-1" id="Z3g4uYWvn1TSTXRmDf2X">
     <mxGraphModel dx="1050" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -94,17 +94,14 @@
         <mxCell id="Afo-B2X1lhz9PmUoqlAG-44" value="Delivered" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="710" width="97.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-45" value="Propossed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="76" y="800" width="97.5" height="30" as="geometry" />
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-45" value="Issued" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="199" y="810" width="97.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-46" value="Open" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="273.5" y="800" width="97.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-47" value="Trading" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="486" y="800" width="97.5" height="30" as="geometry" />
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-46" value="Trading" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="396.5" y="810" width="97.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Afo-B2X1lhz9PmUoqlAG-48" value="Delivered" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="676" y="800" width="97.5" height="30" as="geometry" />
+          <mxGeometry x="582.5" y="810" width="97.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
