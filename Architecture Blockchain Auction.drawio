@@ -1,26 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T04:23:05.985Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="MIuUUsbTtRHXrSWQFTx3" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T07:38:58.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="bx28NZiRSSiZxGpe4xmG" version="21.0.2" type="github">
   <diagram name="Page-1" id="Z3g4uYWvn1TSTXRmDf2X">
     <mxGraphModel dx="1050" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-1" value="Blockchain-based&lt;br&gt;Auction" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="320" y="270" width="140" height="140" as="geometry" />
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-11" value="&lt;b&gt;Orderer node &lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="110" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-2" value="Inacom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-1" value="Blockchain Network" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-2" value="&lt;b&gt;Peer node 1&lt;br&gt;&lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="110" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Afo-B2X1lhz9PmUoqlAG-3" value="Seller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Afo-B2X1lhz9PmUoqlAG-4" value="Buyer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="420" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Afo-B2X1lhz9PmUoqlAG-5" value="Bappebti" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Afo-B2X1lhz9PmUoqlAG-6" value="KBI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cryptocurrency-blockchain-fintech-free/32/Cryptocurrency_blockchain_data-37-128.png" vertex="1" parent="1">
+          <mxGeometry x="365" y="350" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-7" value="Inacom" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="355" y="60" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-12" value="Channel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="240" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
