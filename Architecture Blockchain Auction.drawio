@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T01:04:00.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.0.2" etag="ssEUnTsxQyhdskvuTib8" type="github"><diagram name="Page-1" id="Z3g4uYWvn1TSTXRmDf2X">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-14T04:23:05.985Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="MIuUUsbTtRHXrSWQFTx3" version="21.0.2" type="github">
+  <diagram name="Page-1" id="Z3g4uYWvn1TSTXRmDf2X">
+    <mxGraphModel dx="1050" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-1" value="Blockchain-based&lt;br&gt;Auction" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-2" value="Inacom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-3" value="Seller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-4" value="Buyer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-5" value="Bappebti" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-6" value="KBI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
