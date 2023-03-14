@@ -1,38 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T07:38:58.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="bx28NZiRSSiZxGpe4xmG" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T07:48:26.669Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="U_QeJMItqT0fjN6KswiR" version="21.0.2" type="github">
   <diagram name="Page-1" id="Z3g4uYWvn1TSTXRmDf2X">
     <mxGraphModel dx="1050" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-11" value="&lt;b&gt;Orderer node &lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-20" value="&lt;b&gt;Peer node 3&lt;br&gt;&lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="220" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-22" target="Afo-B2X1lhz9PmUoqlAG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-22" value="&lt;b&gt;Peer node 5&lt;br&gt;&lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="347.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-21" target="Afo-B2X1lhz9PmUoqlAG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-21" value="&lt;b&gt;Peer node 4&lt;br&gt;&lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="347.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-19" target="Afo-B2X1lhz9PmUoqlAG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-19" value="&lt;b&gt;Peer node 3&lt;br&gt;&lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="220" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-18" target="Afo-B2X1lhz9PmUoqlAG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-18" value="&lt;b&gt;Peer node 2&lt;br&gt;&lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="220" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-11" target="Afo-B2X1lhz9PmUoqlAG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-11" value="&lt;b&gt;Orderer node&lt;/b&gt;&lt;br&gt;Order TXs in batch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="110" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Afo-B2X1lhz9PmUoqlAG-1" value="Blockchain Network" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="320" y="300" width="140" height="140" as="geometry" />
+          <mxGeometry x="320" y="385" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-2" target="Afo-B2X1lhz9PmUoqlAG-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Afo-B2X1lhz9PmUoqlAG-2" value="&lt;b&gt;Peer node 1&lt;br&gt;&lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="110" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-3" value="Seller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="390" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-4" value="Buyer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="420" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-5" value="Bappebti" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-6" value="KBI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Afo-B2X1lhz9PmUoqlAG-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cryptocurrency-blockchain-fintech-free/32/Cryptocurrency_blockchain_data-37-128.png" vertex="1" parent="1">
-          <mxGeometry x="365" y="350" width="50" height="50" as="geometry" />
+          <mxGeometry x="355" y="475" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Afo-B2X1lhz9PmUoqlAG-7" value="Inacom" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="355" y="60" width="70" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-12" target="Afo-B2X1lhz9PmUoqlAG-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Afo-B2X1lhz9PmUoqlAG-12" value="Channel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="240" width="170" height="40" as="geometry" />
+          <mxGeometry x="307.5" y="290" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-14" value="KBI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="615" y="160" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-15" value="Bappebti" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="170" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-16" value="Seller" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="292.5" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-17" value="Buyer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="660" y="292.5" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
