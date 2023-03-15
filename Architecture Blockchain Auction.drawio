@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T00:46:13.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qJ2hSxZeWGexU0Qjbu9O" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T01:21:00.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="yfNpHOaxKjko9z98BSAY" version="21.0.2" type="github">
   <diagram name="Page-1" id="Z3g4uYWvn1TSTXRmDf2X">
     <mxGraphModel dx="1050" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,14 +10,14 @@
         <mxCell id="Afo-B2X1lhz9PmUoqlAG-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-22" target="Afo-B2X1lhz9PmUoqlAG-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-22" value="&lt;b&gt;Peer node 5&lt;br&gt;&lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="555" y="347.5" width="130" height="60" as="geometry" />
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-22" value="&lt;b&gt;Peer shared node 5&lt;br&gt;&lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="347.5" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Afo-B2X1lhz9PmUoqlAG-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-21" target="Afo-B2X1lhz9PmUoqlAG-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-21" value="&lt;b&gt;Peer node 4&lt;br&gt;&lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="347.5" width="130" height="60" as="geometry" />
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-21" value="&lt;b&gt;Peer shared node 4&lt;br&gt;&lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="347.5" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Afo-B2X1lhz9PmUoqlAG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-19" target="Afo-B2X1lhz9PmUoqlAG-12">
           <mxGeometry relative="1" as="geometry" />
@@ -65,16 +65,25 @@
           <mxGeometry x="92.5" y="170" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Afo-B2X1lhz9PmUoqlAG-16" value="Seller" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="60" y="292.5" width="70" height="70" as="geometry" />
+          <mxGeometry x="40" y="290" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Afo-B2X1lhz9PmUoqlAG-17" value="Buyer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="660" y="292.5" width="70" height="70" as="geometry" />
+          <mxGeometry x="680" y="290" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=block;endFill=1;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-36" target="Afo-B2X1lhz9PmUoqlAG-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Afo-B2X1lhz9PmUoqlAG-36" value="Propossed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="630" width="97.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=block;endFill=1;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-37" target="Afo-B2X1lhz9PmUoqlAG-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Afo-B2X1lhz9PmUoqlAG-37" value="Open" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="630" width="97.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=block;endFill=1;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-38" target="Afo-B2X1lhz9PmUoqlAG-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Afo-B2X1lhz9PmUoqlAG-38" value="Close" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="630" width="97.5" height="30" as="geometry" />
@@ -82,26 +91,17 @@
         <mxCell id="Afo-B2X1lhz9PmUoqlAG-40" value="Delivered" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="630" width="97.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-41" value="Propossed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="710" width="97.5" height="30" as="geometry" />
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-49" target="Afo-B2X1lhz9PmUoqlAG-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-42" value="Open" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="337.5" y="710" width="97.5" height="30" as="geometry" />
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-49" value="" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="635" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-43" value="Trading" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="710" width="97.5" height="30" as="geometry" />
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-56" value="(nil)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="680" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-44" value="Delivered" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="710" width="97.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-45" value="Issued" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="259" y="810" width="97.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-46" value="Trading" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="456.5" y="810" width="97.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-48" value="Delivered" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="642.5" y="810" width="97.5" height="30" as="geometry" />
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-57" value="Type : CPO&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="103.75" y="680" width="170" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
