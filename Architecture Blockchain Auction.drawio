@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T01:21:00.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="yfNpHOaxKjko9z98BSAY" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T02:27:57.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="bVaxtNU1dLTIWEAtic-X" version="21.0.2" type="github">
   <diagram name="Page-1" id="Z3g4uYWvn1TSTXRmDf2X">
     <mxGraphModel dx="1050" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -100,8 +100,8 @@
         <mxCell id="Afo-B2X1lhz9PmUoqlAG-56" value="(nil)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="680" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-57" value="Type : CPO&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="103.75" y="680" width="170" height="120" as="geometry" />
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-57" value="Item: CPO&lt;br&gt;Owner: User A&lt;br&gt;Orgs: PT. A&lt;br&gt;Qty: 2000 (4 lot)&lt;br&gt;Price: 10000&lt;br&gt;Status: Proposed" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="115.61999999999999" y="680" width="146.25" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
