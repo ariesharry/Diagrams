@@ -1,116 +1,128 @@
-<mxfile host="app.diagrams.net" modified="2023-03-18T12:57:17.595Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="HzKSgONhEzPKhXmhGTC4" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-20T09:31:45.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="o8MB_Ntjp90PKQabtza0" version="21.0.7" type="github">
   <diagram name="Page-1" id="Z3g4uYWvn1TSTXRmDf2X">
-    <mxGraphModel dx="1235" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-20" value="&lt;b&gt;Peer node 3&lt;br&gt;&lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-20" value="&lt;b&gt;Peer node 3&lt;br&gt;&lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="515" y="220" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-22" target="Afo-B2X1lhz9PmUoqlAG-12">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="Afo-B2X1lhz9PmUoqlAG-22" target="Afo-B2X1lhz9PmUoqlAG-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-22" value="&lt;b&gt;Peer shared node 5&lt;br&gt;&lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-22" value="&lt;b&gt;Peer shared node 5&lt;br&gt;&lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="555" y="347.5" width="145" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-21" target="Afo-B2X1lhz9PmUoqlAG-12">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="Afo-B2X1lhz9PmUoqlAG-21" target="Afo-B2X1lhz9PmUoqlAG-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-21" value="&lt;b&gt;Peer shared node 4&lt;br&gt;&lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-21" value="&lt;b&gt;Peer shared node 4&lt;br&gt;&lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="347.5" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-19" target="Afo-B2X1lhz9PmUoqlAG-12">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="Afo-B2X1lhz9PmUoqlAG-19" target="Afo-B2X1lhz9PmUoqlAG-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-19" value="&lt;b&gt;Peer node 3&lt;br&gt;&lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-19" value="&lt;b&gt;Peer node 3&lt;br&gt;&lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="515" y="220" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-18" target="Afo-B2X1lhz9PmUoqlAG-12">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="Afo-B2X1lhz9PmUoqlAG-18" target="Afo-B2X1lhz9PmUoqlAG-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-18" value="&lt;b&gt;Peer node 2&lt;br&gt;&lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-18" value="&lt;b&gt;Peer node 2&lt;br&gt;&lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="137.5" y="220" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-11" target="Afo-B2X1lhz9PmUoqlAG-12">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="Afo-B2X1lhz9PmUoqlAG-11" target="Afo-B2X1lhz9PmUoqlAG-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-11" value="&lt;b&gt;Orderer node&lt;/b&gt;&lt;br&gt;Order TXs in batch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-11" value="&lt;b&gt;Orderer node&lt;/b&gt;&lt;br&gt;Order TXs in batch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="405" y="110" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-1" value="Hyperledger Fabric" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-1" value="Hyperledger Fabric" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="320" y="385" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-2" target="Afo-B2X1lhz9PmUoqlAG-12">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="Afo-B2X1lhz9PmUoqlAG-2" target="Afo-B2X1lhz9PmUoqlAG-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-2" value="&lt;b&gt;Peer node 1&lt;br&gt;&lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-2" value="&lt;b&gt;Peer node 1&lt;br&gt;&lt;/b&gt;Certificate of Authority&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="245" y="110" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cryptocurrency-blockchain-fintech-free/32/Cryptocurrency_blockchain_data-37-128.png" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cryptocurrency-blockchain-fintech-free/32/Cryptocurrency_blockchain_data-37-128.png" parent="1" vertex="1">
           <mxGeometry x="365" y="470" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-7" value="Inacom" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-7" value="Inacom" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="355" y="60" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-12" target="Afo-B2X1lhz9PmUoqlAG-1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="Afo-B2X1lhz9PmUoqlAG-12" target="Afo-B2X1lhz9PmUoqlAG-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-12" value="Channel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-12" value="Channel" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="307.5" y="290" width="165" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-14" value="KBI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-14" value="KBI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="615" y="160" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-15" value="Bappebti" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-15" value="Bappebti" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="92.5" y="170" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-16" value="Seller" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-16" value="Seller" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="40" y="290" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-17" value="Buyer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-17" value="Buyer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="680" y="290" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=block;endFill=1;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-36" target="Afo-B2X1lhz9PmUoqlAG-37">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=block;endFill=1;" parent="1" source="Afo-B2X1lhz9PmUoqlAG-36" target="Afo-B2X1lhz9PmUoqlAG-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-36" value="Submitted" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-36" value="Submitted" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="137.5" y="630" width="97.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=block;endFill=1;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-37" target="Afo-B2X1lhz9PmUoqlAG-38">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=block;endFill=1;" parent="1" source="Afo-B2X1lhz9PmUoqlAG-37" target="Afo-B2X1lhz9PmUoqlAG-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-37" value="Auctioned" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-37" value="Auctioned" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="341.25" y="630" width="97.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=block;endFill=1;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-38" target="Afo-B2X1lhz9PmUoqlAG-40">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=block;endFill=1;" parent="1" source="Afo-B2X1lhz9PmUoqlAG-38" target="Afo-B2X1lhz9PmUoqlAG-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-38" value="Trading" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-38" value="Trading" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="630" width="97.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-40" value="Delivered" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-40" value="Delivered" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="630" width="97.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="Afo-B2X1lhz9PmUoqlAG-49" target="Afo-B2X1lhz9PmUoqlAG-36">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="Afo-B2X1lhz9PmUoqlAG-49" target="Afo-B2X1lhz9PmUoqlAG-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-49" value="" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-49" value="" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="30" y="635" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-56" value="(nil)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-56" value="(nil)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="680" width="80" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-57" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;auction_id: 0001&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;owner: PT. A&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;commodity: CPO&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;lot_number: 0001&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;quality: A Class&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;qty: 1000&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;price: 0&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;factory: PT. A&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;currency: IDR&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;shippment: FOB&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;port_of_loading: Talang Duku&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;delivery_date: 01/05/2023&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;status: submitted&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;labelBackgroundColor=none;spacingLeft=5;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-57" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;auction_id: 0001&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;owner: PT. A&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;commodity: CPO&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;lot_number: 0001&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;quality: A Class&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;qty: 1000&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;price: 0&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;factory: PT. A&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;currency: IDR&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;shippment: FOB&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;port_of_loading: Talang Duku&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;delivery_date: 01/05/2023&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;status: submitted&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;labelBackgroundColor=none;spacingLeft=5;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="99.06" y="680" width="174.38" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-66" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;auction_id: 0001&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;owner: PT. A&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;commodity: CPO&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;lot_number: 0001&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;quality: A Class&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;qty: 1000&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;price: 0&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;factory: PT. A&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;currency: IDR&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;shippment: FOB&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;port_of_loading: Talang Duku&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;delivery_date: 01/05/2023&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;status: auctioned&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;labelBackgroundColor=none;spacingLeft=5;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-66" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;auction_id: 0001&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;owner: PT. A&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;commodity: CPO&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;lot_number: 0001&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;quality: A Class&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;qty: 1000&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;price: 0&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;factory: PT. A&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;currency: IDR&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;shippment: FOB&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;port_of_loading: Talang Duku&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;delivery_date: 01/05/2023&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;status: auctioned&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;labelBackgroundColor=none;spacingLeft=5;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="302.81" y="680" width="174.38" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-67" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;auction_id: 0001&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;owner: PT. B&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;commodity: CPO&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;lot_number: 0001&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;quality: A Class&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;qty: 1000&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;price: 10000&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;factory: PT. A&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;currency: IDR&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;shippment: FOB&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;port_of_loading: Talang Duku&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;delivery_date: 01/05/2023&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;status: trading&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;labelBackgroundColor=none;spacingLeft=5;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-67" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;auction_id: 0001&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;owner: PT. B&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;commodity: CPO&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;lot_number: 0001&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;quality: A Class&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;qty: 1000&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;price: 10000&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;factory: PT. A&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;currency: IDR&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;shippment: FOB&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;port_of_loading: Talang Duku&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;delivery_date: 01/05/2023&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;status: trading&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;labelBackgroundColor=none;spacingLeft=5;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="511.56" y="680" width="174.38" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-68" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;auction_id: 0001&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;owner: PT. A&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;commodity: CPO&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;lot_number: 0001&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;quality: A Class&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;qty: 1000&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;price: 0&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;factory: PT. A&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;currency: IDR&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;shippment: FOB&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;port_of_loading: Talang Duku&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;delivery_date: 01/05/2023&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;status: delivered&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;labelBackgroundColor=none;spacingLeft=5;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-68" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;auction_id: 0001&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;owner: PT. A&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;commodity: CPO&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;lot_number: 0001&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;quality: A Class&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;qty: 1000&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;price: 0&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;factory: PT. A&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;currency: IDR&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;shippment: FOB&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;port_of_loading: Talang Duku&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;delivery_date: 01/05/2023&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;status: delivered&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;labelBackgroundColor=none;spacingLeft=5;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="721.56" y="680" width="174.38" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="MJhWYfrW8yjqu5FU51jU-1" value="Submit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="613" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MJhWYfrW8yjqu5FU51jU-2" value="Open bid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="613" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MJhWYfrW8yjqu5FU51jU-3" value="Close bid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="613" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MJhWYfrW8yjqu5FU51jU-4" value="Deliver" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="613" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
