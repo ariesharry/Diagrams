@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T04:40:58.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="NdQJgzn1Slcn5xkPo_bq" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T04:53:11.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="7Y3Ei4ZjgSBsLrNlahW_" version="21.2.9" type="github">
   <diagram name="Page-1" id="dbuLr0SlaoZJd69MGHm3">
-    <mxGraphModel dx="500" dy="297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -187,6 +187,18 @@
             <mxPoint x="470" y="590" as="sourcePoint" />
             <mxPoint x="552" y="543" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="M0s83uemFnJr9RKfzu6--61" value="Sell" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#232F3E;rotation=50;" vertex="1" parent="1">
+          <mxGeometry x="280" y="150" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M0s83uemFnJr9RKfzu6--62" value="Buy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#232F3E;rotation=-52;" vertex="1" parent="1">
+          <mxGeometry x="281" y="232" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M0s83uemFnJr9RKfzu6--63" value="Sell" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#232F3E;rotation=50;" vertex="1" parent="1">
+          <mxGeometry x="280" y="532" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M0s83uemFnJr9RKfzu6--64" value="Buy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#232F3E;rotation=-52;" vertex="1" parent="1">
+          <mxGeometry x="281" y="614" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
