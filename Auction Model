@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T04:26:34.293Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="PLZOZemntUQxUIx3BsW8" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T04:34:44.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="NDWEBLjlSM1rm1bLf3Kh" version="21.2.9" type="github">
   <diagram name="Page-1" id="dbuLr0SlaoZJd69MGHm3">
-    <mxGraphModel dx="913" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="M0s83uemFnJr9RKfzu6--60" value="Transaction Records" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="577.63" y="640" width="62.37" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M0s83uemFnJr9RKfzu6--57" value="Material&lt;br&gt;Flow" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="577.63" y="483" width="62.37" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="M0s83uemFnJr9RKfzu6--58" value="PKS Profile" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="577.63" y="526.5" width="62.37" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="M0s83uemFnJr9RKfzu6--59" value="Auction&lt;br style=&quot;font-size: 10px;&quot;&gt;Smart Contract" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="577.63" y="600" width="62.37" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="M0s83uemFnJr9RKfzu6--4" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="160" y="80" width="120" height="60" as="geometry" />
         </mxCell>
@@ -143,7 +155,7 @@
             <mxPoint x="505" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M0s83uemFnJr9RKfzu6--46" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Record&lt;/b&gt;&lt;br&gt;CPO&lt;br&gt;Seller&lt;br&gt;Buyer&lt;br&gt;Transaction&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;align=center;fontColor=#232F3E;" vertex="1" parent="1">
+        <mxCell id="M0s83uemFnJr9RKfzu6--46" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Records&lt;/b&gt;&lt;br&gt;CPO&lt;br&gt;Seller&lt;br&gt;Buyer&lt;br&gt;Transaction&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;align=center;fontColor=#232F3E;" vertex="1" parent="1">
           <mxGeometry x="680" y="556" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="M0s83uemFnJr9RKfzu6--47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -162,7 +174,7 @@
           <mxGeometry x="170" y="510" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M0s83uemFnJr9RKfzu6--53" value="Blockchain" style="rounded=0;whiteSpace=wrap;html=1;direction=south;horizontal=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="542.38" y="595.75" width="35.25" height="80.5" as="geometry" />
+          <mxGeometry x="542.38" y="600" width="35.25" height="80" as="geometry" />
         </mxCell>
         <mxCell id="M0s83uemFnJr9RKfzu6--54" value="ERP" style="rounded=0;whiteSpace=wrap;html=1;direction=south;horizontal=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="542.38" y="483" width="35.25" height="80.5" as="geometry" />
@@ -178,12 +190,6 @@
             <mxPoint x="470" y="590" as="sourcePoint" />
             <mxPoint x="552" y="543" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="M0s83uemFnJr9RKfzu6--57" value="Material Flow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="577.63" y="483" width="62.37" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="M0s83uemFnJr9RKfzu6--58" value="PKS Profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="577.63" y="526.5" width="62.37" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
