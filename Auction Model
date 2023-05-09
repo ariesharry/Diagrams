@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T04:35:17.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="990J-D2xhVO7LjGN2huS" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T04:40:58.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="NdQJgzn1Slcn5xkPo_bq" version="21.2.9" type="github">
   <diagram name="Page-1" id="dbuLr0SlaoZJd69MGHm3">
-    <mxGraphModel dx="1235" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="500" dy="297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,10 +156,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M0s83uemFnJr9RKfzu6--47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="M0s83uemFnJr9RKfzu6--48" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Auction Rule&lt;/b&gt;&lt;br&gt;Singel winner with the highest price and fulfilling the price idea&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;align=center;fontColor=#232F3E;" vertex="1" parent="1">
-          <mxGeometry x="340" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="M0s83uemFnJr9RKfzu6--48" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Auction Rule&lt;/b&gt;&lt;br&gt;Multi-unit auction with multiple winners&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;align=center;fontColor=#232F3E;" vertex="1" parent="1">
+          <mxGeometry x="340" y="637" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M0s83uemFnJr9RKfzu6--49" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="M0s83uemFnJr9RKfzu6--48" target="M0s83uemFnJr9RKfzu6--32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
