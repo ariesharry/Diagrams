@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T03:21:35.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XrFboEr77EQpyxZbN5Ft" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-11T03:29:38.001Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ByfBFL92lwK-FM7Tnuoj" version="21.2.9" type="github">
   <diagram name="Page-1" id="enD5YujQbtzVkURWGJkv">
     <mxGraphModel dx="875" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -58,25 +58,7 @@
         <mxCell id="L7TkUvUNkWrWwhkTAJs1-14" value="10000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#108A00;" parent="1" vertex="1">
           <mxGeometry x="145.5" y="557" width="49" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L7TkUvUNkWrWwhkTAJs1-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.381;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="AREQW0-Uzbn7orWwSZBf-2" target="AREQW0-Uzbn7orWwSZBf-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="350" as="sourcePoint" />
-            <mxPoint x="450" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="L7TkUvUNkWrWwhkTAJs1-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.381;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="205" y="180" as="sourcePoint" />
-            <mxPoint x="400" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="L7TkUvUNkWrWwhkTAJs1-24" value="2500" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="220" y="245" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="L7TkUvUNkWrWwhkTAJs1-26" value="2500" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="220" y="180" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="L7TkUvUNkWrWwhkTAJs1-27" value="2000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="L7TkUvUNkWrWwhkTAJs1-27" value="7000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="220" y="140" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L7TkUvUNkWrWwhkTAJs1-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.381;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
@@ -109,10 +91,10 @@
         <mxCell id="L7TkUvUNkWrWwhkTAJs1-34" value="2000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="220" y="597" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ulKzHr1FfeozUBMd8e0i-1" value="Total supply CPO (Q)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#0066CC;" vertex="1" parent="1">
+        <mxCell id="ulKzHr1FfeozUBMd8e0i-1" value="Total supply CPO (Q)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="88" y="100" width="49" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ulKzHr1FfeozUBMd8e0i-2" value="Allocation for auction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#108a00;" vertex="1" parent="1">
+        <mxCell id="ulKzHr1FfeozUBMd8e0i-2" value="Allocation for auction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#108a00;" vertex="1" parent="1">
           <mxGeometry x="78" y="280" width="69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ulKzHr1FfeozUBMd8e0i-3" value="Can only allocate limited quantity for auction" style="text;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
