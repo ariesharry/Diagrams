@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T03:34:19.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="sWQGS-c92SowuvCslGAC" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-11T03:37:18.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="kcA-QqcnkM-l4Jb6AiWh" version="21.2.9" type="github">
   <diagram name="Page-1" id="enD5YujQbtzVkURWGJkv">
     <mxGraphModel dx="875" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,14 +25,11 @@
         <mxCell id="AREQW0-Uzbn7orWwSZBf-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="205" y="300" width="195" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="AREQW0-Uzbn7orWwSZBf-18" value="Auction allocation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="272.5" y="340" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="AREQW0-Uzbn7orWwSZBf-19" value="Non-Auction allocation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="260" y="195" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AREQW0-Uzbn7orWwSZBf-20" value="3000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="220" y="310" width="40" height="30" as="geometry" />
+          <mxGeometry x="220" y="335" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AREQW0-Uzbn7orWwSZBf-21" value="10000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#0066CC;" parent="1" vertex="1">
           <mxGeometry x="145.5" y="100" width="49" height="30" as="geometry" />
@@ -53,7 +50,7 @@
           <mxGeometry x="205" y="570" width="195" height="287" as="geometry" />
         </mxCell>
         <mxCell id="L7TkUvUNkWrWwhkTAJs1-11" value="Auction allocation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="320" y="670" width="60" height="38" as="geometry" />
+          <mxGeometry x="450" y="691" width="60" height="38" as="geometry" />
         </mxCell>
         <mxCell id="L7TkUvUNkWrWwhkTAJs1-14" value="10000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#108A00;" parent="1" vertex="1">
           <mxGeometry x="145.5" y="557" width="49" height="30" as="geometry" />
@@ -80,25 +77,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L7TkUvUNkWrWwhkTAJs1-31" value="3000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="220" y="767" width="40" height="30" as="geometry" />
+          <mxGeometry x="220" y="790" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L7TkUvUNkWrWwhkTAJs1-32" value="2500" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="220" y="702" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L7TkUvUNkWrWwhkTAJs1-33" value="2500" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="220" y="637" width="40" height="30" as="geometry" />
+          <mxGeometry x="220" y="645" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L7TkUvUNkWrWwhkTAJs1-34" value="2000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="220" y="597" width="40" height="30" as="geometry" />
+          <mxGeometry x="220" y="587" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ulKzHr1FfeozUBMd8e0i-1" value="Total supply CPO (Q)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="88" y="100" width="49" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ulKzHr1FfeozUBMd8e0i-2" value="Allocation for auction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#108a00;" vertex="1" parent="1">
           <mxGeometry x="78" y="280" width="69" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ulKzHr1FfeozUBMd8e0i-6" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="ulKzHr1FfeozUBMd8e0i-3" target="AREQW0-Uzbn7orWwSZBf-9">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ulKzHr1FfeozUBMd8e0i-3" value="Can only allocate limited quantity for auction" style="text;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
           <mxGeometry x="440" y="240" width="160" height="40" as="geometry" />
@@ -110,19 +104,31 @@
           <mxGeometry x="78" y="557" width="69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ulKzHr1FfeozUBMd8e0i-8" value="singel winner" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="320" y="309" width="72.5" height="30" as="geometry" />
+          <mxGeometry x="320" y="335" width="72.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ulKzHr1FfeozUBMd8e0i-10" value="winner 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="320" y="767" width="72.5" height="30" as="geometry" />
+          <mxGeometry x="320" y="790" width="72.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ulKzHr1FfeozUBMd8e0i-11" value="winner 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="320" y="720" width="72.5" height="30" as="geometry" />
+          <mxGeometry x="320" y="702" width="72.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ulKzHr1FfeozUBMd8e0i-12" value="winner 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="320" y="637" width="72.5" height="30" as="geometry" />
+          <mxGeometry x="320" y="640" width="72.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ulKzHr1FfeozUBMd8e0i-13" value="winner 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="326.25" y="597" width="72.5" height="30" as="geometry" />
+          <mxGeometry x="320" y="587" width="72.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ulKzHr1FfeozUBMd8e0i-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="410" y="570" width="20" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ulKzHr1FfeozUBMd8e0i-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="410" y="300" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ulKzHr1FfeozUBMd8e0i-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AREQW0-Uzbn7orWwSZBf-18" target="AREQW0-Uzbn7orWwSZBf-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AREQW0-Uzbn7orWwSZBf-18" value="Auction allocation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="440" y="335" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
