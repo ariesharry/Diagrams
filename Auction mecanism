@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T03:20:34.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="mf3XVVCA1s9rcM1DcqiE" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-11T03:21:35.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XrFboEr77EQpyxZbN5Ft" version="21.2.9" type="github">
   <diagram name="Page-1" id="enD5YujQbtzVkURWGJkv">
     <mxGraphModel dx="875" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,9 +46,6 @@
         <mxCell id="L7TkUvUNkWrWwhkTAJs1-3" value="pi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontColor=#009900;" parent="1" vertex="1">
           <mxGeometry x="370" y="867" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L7TkUvUNkWrWwhkTAJs1-5" value="Qt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontColor=#0066CC;" parent="1" vertex="1">
-          <mxGeometry x="160" y="557" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="L7TkUvUNkWrWwhkTAJs1-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="205" y="577" width="195" height="280" as="geometry" />
         </mxCell>
@@ -58,8 +55,8 @@
         <mxCell id="L7TkUvUNkWrWwhkTAJs1-11" value="Auction allocation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="320" y="670" width="60" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="L7TkUvUNkWrWwhkTAJs1-14" value="10000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#0066CC;" parent="1" vertex="1">
-          <mxGeometry x="127" y="557" width="49" height="30" as="geometry" />
+        <mxCell id="L7TkUvUNkWrWwhkTAJs1-14" value="10000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#108A00;" parent="1" vertex="1">
+          <mxGeometry x="145.5" y="557" width="49" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L7TkUvUNkWrWwhkTAJs1-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.381;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="AREQW0-Uzbn7orWwSZBf-2" target="AREQW0-Uzbn7orWwSZBf-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -123,6 +120,9 @@
         </mxCell>
         <mxCell id="ulKzHr1FfeozUBMd8e0i-4" value="3000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#108A00;" vertex="1" parent="1">
           <mxGeometry x="147" y="280" width="49" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ulKzHr1FfeozUBMd8e0i-5" value="Allocation for auction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#108a00;" vertex="1" parent="1">
+          <mxGeometry x="78" y="557" width="69" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
