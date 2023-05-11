@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T03:38:36.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qEPXzfxrTpk-wAqq3MQA" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-11T03:39:09.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="2zuyPVsHDoVvfOmgNi6M" version="21.2.9" type="github">
   <diagram name="Page-1" id="enD5YujQbtzVkURWGJkv">
     <mxGraphModel dx="1313" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,8 +34,8 @@
         <mxCell id="AREQW0-Uzbn7orWwSZBf-21" value="10000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#0066CC;" parent="1" vertex="1">
           <mxGeometry x="145.5" y="100" width="49" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L7TkUvUNkWrWwhkTAJs1-1" value="P (Rp/Kg CPO)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="513" y="841" width="133" height="30" as="geometry" />
+        <mxCell id="L7TkUvUNkWrWwhkTAJs1-1" value="Price (Rp/Kg CPO)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="520" y="841" width="133" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L7TkUvUNkWrWwhkTAJs1-2" value="Quantity (ton)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="175" y="510" width="100" height="30" as="geometry" />
