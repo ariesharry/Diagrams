@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T05:50:49.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="rc_H1lWsAZNbTS0OfXOE" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T06:02:19.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="XvBFoYMwKeOc0bQItwrg" version="21.3.3" type="github">
   <diagram name="Page-1" id="M8ktuPk8o6lQI4CnK0sZ">
-    <mxGraphModel dx="1050" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1615" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,10 +13,10 @@
         <mxCell id="PNFzSRdrrLlA-0-j2CB9-5" value="Business Process E-Auction As is" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="1050" y="100" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="PNFzSRdrrLlA-0-j2CB9-6" value="Fucntional&amp;nbsp; &amp;amp; Non- Functional Requirements Auction System" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="PNFzSRdrrLlA-0-j2CB9-6" value="Functional&amp;nbsp; &amp;amp; Non- Functional Requirements of IBEA Model" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="1050" y="242" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="PNFzSRdrrLlA-0-j2CB9-7" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Business Process Blockchain-Based Auction System&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="PNFzSRdrrLlA-0-j2CB9-7" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Logical Architecture of IBEA Model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1050" y="526" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="PNFzSRdrrLlA-0-j2CB9-8" value="Hardware architecture,&lt;br&gt;Software architecture" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -28,7 +28,7 @@
         <mxCell id="PNFzSRdrrLlA-0-j2CB9-10" value="Use case diagram, Block Definition Dagram" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="1260" y="450" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PNFzSRdrrLlA-0-j2CB9-11" value="BPMN, Activity Diagram" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="PNFzSRdrrLlA-0-j2CB9-11" value="BPMN diagram" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="1260" y="570" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PNFzSRdrrLlA-0-j2CB9-12" value="Block Definition Dagram, Internal Block Diagram, Class Diagram" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
@@ -46,7 +46,7 @@
             <mxPoint x="1382" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BeQGclCiMVtPp5bvM3r5-1" value="Functional Architecture Auction System" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="BeQGclCiMVtPp5bvM3r5-1" value="Functional Architecture of IBEA Model" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1050" y="384.5" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="BeQGclCiMVtPp5bvM3r5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="PNFzSRdrrLlA-0-j2CB9-9" target="PNFzSRdrrLlA-0-j2CB9-9" edge="1">
