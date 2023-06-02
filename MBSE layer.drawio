@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T07:41:59.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KKYlQ39Z5aW1_wD990X1" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T07:42:24.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="wrZ_i8AR9pg4PSQVyFUa" version="21.3.3" type="github">
   <diagram name="Page-1" id="M8ktuPk8o6lQI4CnK0sZ">
     <mxGraphModel dx="2350" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="910" y="232" width="170" height="98" as="geometry" />
         </mxCell>
         <mxCell id="PNFzSRdrrLlA-0-j2CB9-7" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Business Process &amp;amp; Mathematical Formulation of IBEA Model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="910" y="475" width="170" height="105" as="geometry" />
+          <mxGeometry x="910" y="478" width="170" height="105" as="geometry" />
         </mxCell>
         <mxCell id="PNFzSRdrrLlA-0-j2CB9-8" value="Hardware Architecture &amp;amp;&lt;br&gt;Software Architecture of IBEA Model" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="910" y="600" width="170" height="99" as="geometry" />
