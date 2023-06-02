@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T07:34:30.196Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="n58H-kOe85YocUbDNo7k" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T07:37:14.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0Xl_7rD-osRGP6B5v_Ut" version="21.3.3" type="github">
   <diagram name="Page-1" id="M8ktuPk8o6lQI4CnK0sZ">
-    <mxGraphModel dx="2085" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2600" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,52 +11,52 @@
           <mxGeometry x="-10" y="800" width="1013" height="767" as="geometry" />
         </mxCell>
         <mxCell id="PNFzSRdrrLlA-0-j2CB9-2" value="SysML" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="860" y="427.5" width="725" height="30" as="geometry" />
+          <mxGeometry x="855" y="378.67" width="635" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PNFzSRdrrLlA-0-j2CB9-5" value="Business Process E-Auction As is" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="100" width="130" height="130" as="geometry" />
+          <mxGeometry x="960" y="116.17" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PNFzSRdrrLlA-0-j2CB9-6" value="Functional&amp;nbsp; &amp;amp; Non- Functional Requirements of IBEA Model" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="242" width="130" height="130" as="geometry" />
+          <mxGeometry x="960" y="238.17" width="170" height="98" as="geometry" />
         </mxCell>
         <mxCell id="PNFzSRdrrLlA-0-j2CB9-7" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Business Process &amp;amp; Mathematical Formulation of IBEA Model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="526" width="130" height="130" as="geometry" />
+          <mxGeometry x="960" y="481.17" width="170" height="105" as="geometry" />
         </mxCell>
         <mxCell id="PNFzSRdrrLlA-0-j2CB9-8" value="Hardware Architecture &amp;amp;&lt;br&gt;Software Architecture of IBEA Model" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="670" width="130" height="130" as="geometry" />
+          <mxGeometry x="960" y="606.17" width="170" height="99" as="geometry" />
         </mxCell>
         <mxCell id="PNFzSRdrrLlA-0-j2CB9-9" value="BPMN Existing e-Auction System" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="1260" y="150" width="130" height="30" as="geometry" />
+          <mxGeometry x="1210" y="146.17" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PNFzSRdrrLlA-0-j2CB9-10" value="Use case diagram, Block Definition Dagram" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="1260" y="450" width="130" height="30" as="geometry" />
+          <mxGeometry x="1210" y="411" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PNFzSRdrrLlA-0-j2CB9-11" value="BPMN diagram" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="1260" y="570" width="130" height="30" as="geometry" />
+          <mxGeometry x="1210" y="518.67" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PNFzSRdrrLlA-0-j2CB9-12" value="Block Definition Dagram, Internal Block Diagram, Class Diagram" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="1260" y="720" width="130" height="30" as="geometry" />
+          <mxGeometry x="1210" y="640.67" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PNFzSRdrrLlA-0-j2CB9-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=17;strokeWidth=3;strokeColor=#6c8ebf;exitX=1;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;" parent="1" source="PNFzSRdrrLlA-0-j2CB9-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1197.5" y="110" as="sourcePoint" />
-            <mxPoint x="1380" y="80" as="targetPoint" />
+            <mxPoint x="1147.5" y="106.17" as="sourcePoint" />
+            <mxPoint x="1330" y="76.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PNFzSRdrrLlA-0-j2CB9-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=17;strokeWidth=3;strokeColor=#6c8ebf;exitX=1;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1240" y="800" as="sourcePoint" />
-            <mxPoint x="1382" y="800" as="targetPoint" />
+            <mxPoint x="1190" y="710" as="sourcePoint" />
+            <mxPoint x="1332" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BeQGclCiMVtPp5bvM3r5-1" value="Functional Architecture of IBEA Model" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="384.5" width="130" height="130" as="geometry" />
+          <mxGeometry x="960" y="380.67" width="170" height="85.5" as="geometry" />
         </mxCell>
         <mxCell id="BeQGclCiMVtPp5bvM3r5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="PNFzSRdrrLlA-0-j2CB9-9" target="PNFzSRdrrLlA-0-j2CB9-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BeQGclCiMVtPp5bvM3r5-3" value="Requirements Documents" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="1260" y="292" width="130" height="30" as="geometry" />
+          <mxGeometry x="1210" y="268" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eauuBhalH3cj8ruG4A8v-3" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=110;treeFolding=0;arcSize=60;gradientColor=none;rounded=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="100" width="430" height="120" as="geometry" />
@@ -306,10 +306,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eauuBhalH3cj8ruG4A8v-80" value="Operational Analysis" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="720" y="100" width="230" height="30" as="geometry" />
+          <mxGeometry x="720" y="126.5" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eauuBhalH3cj8ruG4A8v-81" value="What the user of the system need to accomplish" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="720" y="137" width="230" height="30" as="geometry" />
+          <mxGeometry x="720" y="163.5" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eauuBhalH3cj8ruG4A8v-82" value="Functional &amp;amp; Non-Functional Need" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="720" y="250" width="230" height="30" as="geometry" />
@@ -318,16 +318,16 @@
           <mxGeometry x="720" y="299" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eauuBhalH3cj8ruG4A8v-84" value="Functional &amp;amp; Logical Architecture" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="720" y="369" width="230" height="30" as="geometry" />
+          <mxGeometry x="720" y="422" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eauuBhalH3cj8ruG4A8v-85" value="How the system will work to fulfill the expectations" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="720" y="418" width="230" height="30" as="geometry" />
+          <mxGeometry x="720" y="471" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eauuBhalH3cj8ruG4A8v-86" value="Physical Architecture" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="720" y="516" width="230" height="30" as="geometry" />
+          <mxGeometry x="720" y="579" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eauuBhalH3cj8ruG4A8v-87" value="How the system will develoved and built" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="720" y="565" width="230" height="30" as="geometry" />
+          <mxGeometry x="720" y="628" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
