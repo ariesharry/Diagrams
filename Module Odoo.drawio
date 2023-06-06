@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T08:23:22.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HCvZ_AckLKFA6Njffy79" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T08:26:47.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OO0_AwWs5yAgHmgMc6R6" version="21.3.7" type="github">
   <diagram name="Page-1" id="BuuCD-b0GSaSV_Pso_qp">
-    <mxGraphModel dx="1050" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="j7EdN9AqP-IH4uUMdObs-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pptssolutions.com/wp-content/uploads/2020/07/odoo-services.jpg;" vertex="1" parent="1">
-          <mxGeometry x="120" y="30" width="776" height="506" as="geometry" />
+        <mxCell id="j7EdN9AqP-IH4uUMdObs-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pptssolutions.com/wp-content/uploads/2020/07/odoo-services.jpg;" vertex="1" parent="1">
+          <mxGeometry x="150" y="110" width="475.42" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
