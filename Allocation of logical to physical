@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T04:20:35.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="f5SN71EfX6ZlTIEG2nRN" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T04:21:59.129Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vXafJrLOuH-XWZW3Kcvv" version="21.3.7" type="github">
   <diagram name="Page-1" id="L7a4Y4y0EGQeiA3FOZRE">
     <mxGraphModel dx="1235" dy="1833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -83,28 +83,28 @@
           <mxGeometry x="669.5" y="-200" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5EwJNuRKLgvuZ-YW5wXj-30" value="&lt;br&gt;F6 Determine clearing price and the winning bid for each CPO lot" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="110" y="-130" width="249.5" height="120" as="geometry" />
+          <mxGeometry x="103" y="-130" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5EwJNuRKLgvuZ-YW5wXj-31" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;endAuction()&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
-          <mxGeometry x="184.75" y="-60" width="100" height="40" as="geometry" />
+          <mxGeometry x="133" y="-60" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5EwJNuRKLgvuZ-YW5wXj-33" value="&lt;br&gt;F7 Generate result report" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="379.5" y="-130" width="120" height="120" as="geometry" />
+          <mxGeometry x="290" y="-130" width="149.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5EwJNuRKLgvuZ-YW5wXj-34" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;queryAuction()&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/span&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
-          <mxGeometry x="389.5" y="-60" width="100" height="40" as="geometry" />
+          <mxGeometry x="319.5" y="-60" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5EwJNuRKLgvuZ-YW5wXj-36" value="&lt;br&gt;F8 Manage PKS Profile" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="518.75" y="-130" width="120" height="120" as="geometry" />
+          <mxGeometry x="460" y="-130" width="148.75" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5EwJNuRKLgvuZ-YW5wXj-37" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;generateReport()&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
-          <mxGeometry x="528.75" y="-60" width="100" height="40" as="geometry" />
+          <mxGeometry x="494.38" y="-60" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5EwJNuRKLgvuZ-YW5wXj-40" value="&lt;br&gt;F9 Manage Material Flow" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="659.5" y="-130" width="120" height="120" as="geometry" />
+          <mxGeometry x="630" y="-130" width="149.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5EwJNuRKLgvuZ-YW5wXj-41" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;queryBid()&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/span&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
-          <mxGeometry x="669.5" y="-60" width="100" height="40" as="geometry" />
+          <mxGeometry x="654.75" y="-60" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aXDHQP_6AGWbM0ty8NCr-1" value="Material Flow Module" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="263" y="185" width="70" height="40" as="geometry" />
