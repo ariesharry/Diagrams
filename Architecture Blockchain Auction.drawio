@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T07:16:29.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="01T8XHRBGgut-78JK_t6" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T07:16:55.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Kj3ctsuIZWmQ3kP9ODtC" version="21.5.0" type="github">
   <diagram name="Page-1" id="Z3g4uYWvn1TSTXRmDf2X">
     <mxGraphModel dx="1235" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="Afo-B2X1lhz9PmUoqlAG-21" value="CA&lt;br&gt;MSP&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="95" y="277.5" width="140" height="82.5" as="geometry" />
         </mxCell>
-        <mxCell id="Afo-B2X1lhz9PmUoqlAG-1" value="Hyperledger Fabric" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-1" value="Hyperledger Fabric&lt;br&gt;Ledger" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="320" y="360" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Afo-B2X1lhz9PmUoqlAG-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="Afo-B2X1lhz9PmUoqlAG-2" target="Afo-B2X1lhz9PmUoqlAG-12" edge="1">
