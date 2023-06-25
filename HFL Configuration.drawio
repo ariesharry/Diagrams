@@ -1,0 +1,138 @@
+<mxfile host="app.diagrams.net" modified="2023-06-25T11:53:30.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jC-LvqNaORSBUGk8Qf8u" version="21.5.0" type="github">
+  <diagram name="Page-1" id="Z3g4uYWvn1TSTXRmDf2X">
+    <mxGraphModel dx="1050" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="Afo-B2X1lhz9PmUoqlAG-22" target="Afo-B2X1lhz9PmUoqlAG-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-22" value="CA&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;MSP&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="555.94" y="277.5" width="145" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="Afo-B2X1lhz9PmUoqlAG-21" target="Afo-B2X1lhz9PmUoqlAG-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-21" value="CA&lt;br&gt;MSP&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="95" y="277.5" width="140" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-1" value="Hyperledger Fabric&lt;br&gt;Ledger" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="320" y="360" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="Afo-B2X1lhz9PmUoqlAG-2" target="Afo-B2X1lhz9PmUoqlAG-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-2" value="CA&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;MSP&lt;br&gt;Chaincode&lt;br&gt;CouchDB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="325" y="130" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cryptocurrency-blockchain-fintech-free/32/Cryptocurrency_blockchain_data-37-128.png" parent="1" vertex="1">
+          <mxGeometry x="365" y="445" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-7" value="Inacom" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="355" y="60" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="Afo-B2X1lhz9PmUoqlAG-12" target="Afo-B2X1lhz9PmUoqlAG-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-12" value="Auction Channel" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="307.5" y="287.5" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-16" value="Seller" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="45" y="220" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-17" value="Buyer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="680.94" y="220" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-36" value="Issued" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="137.5" y="630" width="97.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=block;endFill=1;" parent="1" source="Afo-B2X1lhz9PmUoqlAG-36" target="Afo-B2X1lhz9PmUoqlAG-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="438.75" y="645" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=block;endFill=1;" parent="1" source="Afo-B2X1lhz9PmUoqlAG-38" target="Afo-B2X1lhz9PmUoqlAG-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-38" value="Trading" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="345.94" y="630" width="97.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-40" value="Delivered" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="555.94" y="630" width="97.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="Afo-B2X1lhz9PmUoqlAG-49" target="Afo-B2X1lhz9PmUoqlAG-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-49" value="" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="30" y="635" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-56" value="(nil)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="680" width="80" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-57" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;auction_id: 0001&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;owner: PT. A&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;commodity: CPO&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;lot_number: 0001&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;quality: A Class&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;qty: 1000&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;price: 0&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;factory: PT. A&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;currency: IDR&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;shippment: FOB&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;port_of_loading: Talang Duku&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;delivery_date: 01/05/2023&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;status: submitted&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;labelBackgroundColor=none;spacingLeft=5;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="99.06" y="680" width="174.38" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-67" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;auction_id: 0001&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;owner: PT. B&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;commodity: CPO&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;lot_number: 0001&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;quality: A Class&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;qty: 1000&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;price: 10000&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;factory: PT. A&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;currency: IDR&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;shippment: FOB&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;port_of_loading: Talang Duku&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;delivery_date: 01/05/2023&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;status: trading&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;labelBackgroundColor=none;spacingLeft=5;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="307.5" y="680" width="174.38" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Afo-B2X1lhz9PmUoqlAG-68" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;auction_id: 0001&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;owner: PT. A&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;commodity: CPO&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;lot_number: 0001&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;quality: A Class&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;qty: 1000&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;price: 0&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;factory: PT. A&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;currency: IDR&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;shippment: FOB&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;port_of_loading: Talang Duku&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;delivery_date: 01/05/2023&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;status: delivered&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;labelBackgroundColor=none;spacingLeft=5;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="517.5" y="680" width="174.38" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="MJhWYfrW8yjqu5FU51jU-1" value="Submit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="613" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MJhWYfrW8yjqu5FU51jU-4" value="Deliver" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="465.94" y="613" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AdlBNiU6N3Yqm_l1RB0n-1" value="Trade" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="260" y="613" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sXUqKAdQSx0fg5tm6CZo-1" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Peer node 1&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Orderer node&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="335" y="20" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sXUqKAdQSx0fg5tm6CZo-2" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Shared peer node 2&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="10" y="190" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sXUqKAdQSx0fg5tm6CZo-3" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Shared peer node 3&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="645.94" y="190" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sXUqKAdQSx0fg5tm6CZo-4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" parent="1" vertex="1">
+          <mxGeometry x="495.94" y="155" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sXUqKAdQSx0fg5tm6CZo-5" value="Digital identity" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="510" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sXUqKAdQSx0fg5tm6CZo-10" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" parent="1" vertex="1">
+          <mxGeometry x="613.44" y="395" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sXUqKAdQSx0fg5tm6CZo-11" value="Digital identity" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="568.44" y="429" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sXUqKAdQSx0fg5tm6CZo-13" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" parent="1" vertex="1">
+          <mxGeometry x="150.00000000000006" y="395" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sXUqKAdQSx0fg5tm6CZo-14" value="Digital identity" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="105.00000000000006" y="429" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sXUqKAdQSx0fg5tm6CZo-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.268;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Afo-B2X1lhz9PmUoqlAG-2" target="sXUqKAdQSx0fg5tm6CZo-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="320" as="sourcePoint" />
+            <mxPoint x="340" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXUqKAdQSx0fg5tm6CZo-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Afo-B2X1lhz9PmUoqlAG-22" target="sXUqKAdQSx0fg5tm6CZo-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="465" y="180" as="sourcePoint" />
+            <mxPoint x="500" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXUqKAdQSx0fg5tm6CZo-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Afo-B2X1lhz9PmUoqlAG-21" target="sXUqKAdQSx0fg5tm6CZo-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="638" y="370" as="sourcePoint" />
+            <mxPoint x="638" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
