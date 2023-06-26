@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T13:19:12.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8lGSOKIKPsF3VvP4IEzb" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T13:27:05.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="XnweD4XTtrkKNC4y5uww" version="21.5.0" type="github">
   <diagram id="9HLhW9o5Pn7bnSsW2eLf" name="Page-1">
     <mxGraphModel dx="1050" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="350" y="1190" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5jKje8F0iwKBfb8MLztT-20" value="&lt;span style=&quot;font-size:11.0pt;line-height:&lt;br/&gt;107%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;Designing&lt;br/&gt;functional architecture&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="357.5" y="440" width="150" height="50" as="geometry" />
+          <mxGeometry x="425" y="500" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tW3wjYKGY_-DUdyRMUnM-2" value="Requirements elicitation" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="365" y="170" width="150" height="40" as="geometry" />
@@ -84,8 +84,8 @@
         <mxCell id="hCjjelzhOeql4R-USYPA-1" value="&lt;div&gt;Stakeholder interviews, and existing documentation.&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="90" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hCjjelzhOeql4R-USYPA-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="380" width="130" height="70" as="geometry" />
+        <mxCell id="hCjjelzhOeql4R-USYPA-2" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Is the Statement of requirements clear and complete?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382.5" y="380" width="115" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
