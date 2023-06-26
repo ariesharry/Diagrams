@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T14:52:56.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="rdnCnzcwzjCooWtCx9B5" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T14:55:03.865Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7sxaNrb2MillC7tdivtm" version="21.5.0" type="github">
   <diagram id="9HLhW9o5Pn7bnSsW2eLf" name="Page-1">
-    <mxGraphModel dx="600" dy="356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="1246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5jKje8F0iwKBfb8MLztT-20" value="Create use case diagrams to depict the interactions between actors and system functions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="87.44" y="722.5" width="175" height="50" as="geometry" />
+          <mxGeometry x="87.44" y="789" width="175" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tW3wjYKGY_-DUdyRMUnM-2" target="hCjjelzhOeql4R-USYPA-17">
           <mxGeometry relative="1" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tW3wjYKGY_-DUdyRMUnM-8" value="Activity Diagram,&lt;br&gt;BPMN, Mathematical models,&lt;br&gt;Chaincode pseudocode" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="341.25" y="840" width="187.5" height="50" as="geometry" />
+          <mxGeometry x="341.25" y="886" width="187.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YmFkH0KrsYM-fxtj9EKp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tW3wjYKGY_-DUdyRMUnM-9" target="tW3wjYKGY_-DUdyRMUnM-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -100,19 +100,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="157.44" y="522.5" width="35" height="35" as="geometry" />
+          <mxGeometry x="157.44" y="589" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCjjelzhOeql4R-USYPA-13" target="hCjjelzhOeql4R-USYPA-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-13" value="&lt;div&gt;Requirements specification document&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="79.94" y="582.5" width="190" height="40" as="geometry" />
+          <mxGeometry x="79.94" y="649" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCjjelzhOeql4R-USYPA-16" target="5jKje8F0iwKBfb8MLztT-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-16" value="Identify the primary system functionalities based on requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="87.44" y="642.5" width="175" height="50" as="geometry" />
+          <mxGeometry x="87.44" y="709" width="175" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCjjelzhOeql4R-USYPA-17" target="hCjjelzhOeql4R-USYPA-19">
           <mxGeometry relative="1" as="geometry" />
@@ -143,8 +143,8 @@
         <mxCell id="hCjjelzhOeql4R-USYPA-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCjjelzhOeql4R-USYPA-36" target="hCjjelzhOeql4R-USYPA-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="59.94" y="897.5" />
-              <mxPoint x="59.94" y="667.5" />
+              <mxPoint x="59.94" y="964" />
+              <mxPoint x="59.94" y="734" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -152,45 +152,48 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-36" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;The function architecture clear and meets the requirements?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="117.44" y="862.5" width="115" height="70" as="geometry" />
+          <mxGeometry x="117.44" y="929" width="115" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCjjelzhOeql4R-USYPA-37" target="hCjjelzhOeql4R-USYPA-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-37" value="&lt;div&gt;Use Case Diagram&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="79.94" y="800" width="190" height="40" as="geometry" />
+          <mxGeometry x="79.94" y="866.5" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hCjjelzhOeql4R-USYPA-43">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="435.5882352941178" y="600" as="targetPoint" />
+            <mxPoint x="435.5882352941178" y="646" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-43" value="&lt;div&gt;Use Case Diagram&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="340" y="540" width="190" height="40" as="geometry" />
+          <mxGeometry x="340" y="586" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCjjelzhOeql4R-USYPA-44" target="hCjjelzhOeql4R-USYPA-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-44" value="Model the flow of activities and decision points using BPMN &amp;amp; Activity Diagram" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="347.5" y="602.5" width="175" height="50" as="geometry" />
+          <mxGeometry x="347.5" y="648.5" width="175" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCjjelzhOeql4R-USYPA-45" target="hCjjelzhOeql4R-USYPA-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-45" value="Develop mathematical models&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="347.5" y="680" width="175" height="55" as="geometry" />
+          <mxGeometry x="347.5" y="726" width="175" height="55" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hCjjelzhOeql4R-USYPA-46" target="tW3wjYKGY_-DUdyRMUnM-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-46" value="Develop pseudocode algorithms to convert system&amp;nbsp;functionalities into chaincode structures" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="347.5" y="760" width="175" height="55" as="geometry" />
+          <mxGeometry x="347.5" y="806" width="175" height="55" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCjjelzhOeql4R-USYPA-52" target="hCjjelzhOeql4R-USYPA-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hCjjelzhOeql4R-USYPA-72" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCjjelzhOeql4R-USYPA-52" target="hCjjelzhOeql4R-USYPA-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-52" value="The logical model support the desired&amp;nbsp;functionalities?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="377.5" y="912.5" width="115" height="70" as="geometry" />
+          <mxGeometry x="377.5" y="958.5" width="115" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCjjelzhOeql4R-USYPA-57" target="hCjjelzhOeql4R-USYPA-67">
           <mxGeometry relative="1" as="geometry" />
@@ -227,6 +230,9 @@
         <mxCell id="hCjjelzhOeql4R-USYPA-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCjjelzhOeql4R-USYPA-67" target="hCjjelzhOeql4R-USYPA-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hCjjelzhOeql4R-USYPA-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCjjelzhOeql4R-USYPA-67" target="hCjjelzhOeql4R-USYPA-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-67" value="The physical model support the logical model?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="635.03" y="980" width="115" height="70" as="geometry" />
         </mxCell>
@@ -235,6 +241,9 @@
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-68" value="Configure the Hyperledger Fabric Blockchain network and develop Full Chaincode" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="605.03" y="835" width="175" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="hCjjelzhOeql4R-USYPA-73" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="675.03" y="1070" width="35" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
