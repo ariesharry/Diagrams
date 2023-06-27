@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T15:28:18.623Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kbinmVmf2skdSRUdeTto" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T09:59:12.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="S_kvE3q8PqoTRO2UCKwu" version="21.5.0" type="github">
   <diagram id="9HLhW9o5Pn7bnSsW2eLf" name="Page-1">
-    <mxGraphModel dx="3000" dy="1780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1000" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
         <mxCell id="hCjjelzhOeql4R-USYPA-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tW3wjYKGY_-DUdyRMUnM-8" target="hCjjelzhOeql4R-USYPA-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tW3wjYKGY_-DUdyRMUnM-8" value="Activity Diagram,&lt;br&gt;BPMN, Mathematical models,&lt;br&gt;Chaincode pseudocode" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="tW3wjYKGY_-DUdyRMUnM-8" value="Activity Diagram, BPMN, mathematical models,&lt;br&gt;pseudocode for chaincode" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="342.25" y="806" width="187.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YmFkH0KrsYM-fxtj9EKp-2" target="hCjjelzhOeql4R-USYPA-2">
@@ -184,7 +184,7 @@
             <mxPoint x="694.1182352941178" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hCjjelzhOeql4R-USYPA-59" value="Activity Diagram,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BPMN, Mathematical models,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Pseudocode" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="hCjjelzhOeql4R-USYPA-59" value="Activity Diagram,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BPMN, Mathematical models,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;pseudocode for chaincode" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="598.53" y="450" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCjjelzhOeql4R-USYPA-61" target="hCjjelzhOeql4R-USYPA-63">
