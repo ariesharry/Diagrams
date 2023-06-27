@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T10:04:23.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NZhyckNjhHyniwRZLJNM" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T10:07:13.298Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NiPc4Qj93LScnpTuxE5x" version="21.5.0" type="github">
   <diagram id="9HLhW9o5Pn7bnSsW2eLf" name="Page-1">
     <mxGraphModel dx="1000" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -226,7 +226,7 @@
         <mxCell id="hCjjelzhOeql4R-USYPA-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCjjelzhOeql4R-USYPA-76" target="hCjjelzhOeql4R-USYPA-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hCjjelzhOeql4R-USYPA-76" value="Internal Block Diagram, Hyperledger Fabric Network, Auction Chaincode" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="hCjjelzhOeql4R-USYPA-76" value="Internal Block Diagram, Hyperledger Fabric Network,&lt;br&gt;Full chaincode algorithm" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="92" y="1145" width="187.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCjjelzhOeql4R-USYPA-78" target="hCjjelzhOeql4R-USYPA-76">
