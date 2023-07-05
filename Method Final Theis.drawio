@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T05:20:59.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MCb4uvtwhmWM1WPfD-kd" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-05T05:21:24.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="s6VnDTZY9UMSgxcKK6ca" version="21.5.2" type="github">
   <diagram id="9HLhW9o5Pn7bnSsW2eLf" name="Page-1">
-    <mxGraphModel dx="2163" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2350" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,9 +47,6 @@
         <mxCell id="tW3wjYKGY_-DUdyRMUnM-8" value="Activity Diagram, BPMN, mathematical models,&lt;br&gt;pseudocode for chaincode" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-432.75" y="1211" width="187.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YmFkH0KrsYM-fxtj9EKp-2" value="&lt;div&gt;Requirements specification document&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="343.78" y="860" width="190" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="fIBdzFH7qDZZ9BTydfWF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hCjjelzhOeql4R-USYPA-1" target="tW3wjYKGY_-DUdyRMUnM-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -85,18 +82,6 @@
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-16" value="Identify the primary system functionalities based on requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-687.56" y="1061" width="175" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="hCjjelzhOeql4R-USYPA-17" value="Analyze business process of existing auction and standards to identify compliance requirements" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-251.5" y="340" width="200" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="hCjjelzhOeql4R-USYPA-19" value="Review existing documentation and auction systems to extract relevant requirements" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-233.31" y="535" width="200" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="hCjjelzhOeql4R-USYPA-28" value="Document the gathered requirements." style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-338.97" y="630" width="200" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="hCjjelzhOeql4R-USYPA-31" value="Organize the elicited requirements into functional and non-functional categories" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-268.75" y="440" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hCjjelzhOeql4R-USYPA-36" target="hCjjelzhOeql4R-USYPA-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -358,36 +343,6 @@
         </mxCell>
         <mxCell id="1afB1hcoBizUo_FCss92-9" value="Analyze business proses of bidding process" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="78.59999999999997" y="290" width="166.22" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="1afB1hcoBizUo_FCss92-20" value="&lt;b&gt;Requirements Documentation&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="43.42" y="650" width="790.72" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="1afB1hcoBizUo_FCss92-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1afB1hcoBizUo_FCss92-22" target="1afB1hcoBizUo_FCss92-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1afB1hcoBizUo_FCss92-22" value="Conduct stakeholder interviews to gather requirements" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="1" vertex="1">
-          <mxGeometry x="113.78" y="710" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="1afB1hcoBizUo_FCss92-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1afB1hcoBizUo_FCss92-24" target="1afB1hcoBizUo_FCss92-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1afB1hcoBizUo_FCss92-24" value="Conduct stakeholder interviews to gather requirements" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="1" vertex="1">
-          <mxGeometry x="340.55999999999995" y="710" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="1afB1hcoBizUo_FCss92-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1afB1hcoBizUo_FCss92-26" target="1afB1hcoBizUo_FCss92-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1afB1hcoBizUo_FCss92-26" value="Conduct stakeholder interviews to gather requirements" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="1" vertex="1">
-          <mxGeometry x="563.78" y="710" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="1afB1hcoBizUo_FCss92-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1afB1hcoBizUo_FCss92-28" target="1afB1hcoBizUo_FCss92-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1afB1hcoBizUo_FCss92-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="723.75" width="22.5" height="22.5" as="geometry" />
-        </mxCell>
-        <mxCell id="1afB1hcoBizUo_FCss92-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="790" y="723.75" width="22.5" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="1afB1hcoBizUo_FCss92-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1afB1hcoBizUo_FCss92-33" target="1afB1hcoBizUo_FCss92-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
