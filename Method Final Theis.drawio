@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T05:13:09.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vKYElct2xpqXqGAMt0C0" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-05T05:19:06.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0E8_VsD2ipYfBP4pF07l" version="21.5.2" type="github">
   <diagram id="9HLhW9o5Pn7bnSsW2eLf" name="Page-1">
-    <mxGraphModel dx="2600" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2163" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fIBdzFH7qDZZ9BTydfWF-10" value="&lt;b&gt;Requirements Documentation of Auction Process&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=none;verticalAlign=top;direction=west;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="343.78000000000003" y="100" width="266.58" height="490" as="geometry" />
+        <mxCell id="fIBdzFH7qDZZ9BTydfWF-10" value="&lt;b&gt;Requirements Documentation of &lt;br&gt;Auction Process&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=none;verticalAlign=bottom;direction=east;horizontal=0;flipH=0;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="574.34" y="100" width="266.58" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="1afB1hcoBizUo_FCss92-6" value="&lt;b&gt;Requirements Elicitation of Auction Process&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=none;verticalAlign=top;direction=west;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="25.42" y="100" width="266.58" height="490" as="geometry" />
+        <mxCell id="1afB1hcoBizUo_FCss92-6" value="&lt;b&gt;Requirements Elicitation of &lt;br&gt;Auction Process&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=none;verticalAlign=top;direction=west;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="25.42" y="100" width="524.58" height="260" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5jKje8F0iwKBfb8MLztT-3" target="hCjjelzhOeql4R-USYPA-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -35,6 +35,9 @@
         <mxCell id="5jKje8F0iwKBfb8MLztT-20" value="Create use case diagrams to represent the interactions between actors and system functions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-687.56" y="1133" width="175" height="63" as="geometry" />
         </mxCell>
+        <mxCell id="fIBdzFH7qDZZ9BTydfWF-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tW3wjYKGY_-DUdyRMUnM-2" target="1afB1hcoBizUo_FCss92-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tW3wjYKGY_-DUdyRMUnM-2" value="Analyze business proses of auction creation" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="78.60000000000001" y="220" width="166.22" height="50" as="geometry" />
         </mxCell>
@@ -53,11 +56,17 @@
         <mxCell id="hCjjelzhOeql4R-USYPA-1" value="&lt;div&gt;Existing auction process:&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Auction creation&lt;/div&gt;&lt;div&gt;2. Bidding process&lt;/div&gt;&lt;div&gt;3.&amp;nbsp;Auction closing&lt;/div&gt;&lt;div&gt;4.&amp;nbsp;Winner announcement&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="67.56" y="120" width="188.29" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="fIBdzFH7qDZZ9BTydfWF-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCjjelzhOeql4R-USYPA-2" target="hCjjelzhOeql4R-USYPA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fIBdzFH7qDZZ9BTydfWF-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCjjelzhOeql4R-USYPA-2" target="fIBdzFH7qDZZ9BTydfWF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-2" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;The Statement of requirements clear and complete?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="419.57" y="355" width="115" height="70" as="geometry" />
+          <mxGeometry x="636.5" y="370" width="115" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="461.34999999999997" y="465" width="35" height="35" as="geometry" />
+          <mxGeometry x="676.5" y="457.5" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="hCjjelzhOeql4R-USYPA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hCjjelzhOeql4R-USYPA-12" target="hCjjelzhOeql4R-USYPA-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -344,6 +353,9 @@
         <mxCell id="hCjjelzhOeql4R-USYPA-128" value="Physical Architecture&lt;br&gt;Modeling" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-174.25" y="740" width="177.78" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fIBdzFH7qDZZ9BTydfWF-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1afB1hcoBizUo_FCss92-9" target="fIBdzFH7qDZZ9BTydfWF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1afB1hcoBizUo_FCss92-9" value="Analyze business proses of bidding process" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="78.59999999999997" y="290" width="166.22" height="50" as="geometry" />
         </mxCell>
@@ -545,23 +557,46 @@
         <mxCell id="1afB1hcoBizUo_FCss92-91" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="823.7800000000001" y="2810.75" width="22.5" height="22.5" as="geometry" />
         </mxCell>
+        <mxCell id="fIBdzFH7qDZZ9BTydfWF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fIBdzFH7qDZZ9BTydfWF-2" target="fIBdzFH7qDZZ9BTydfWF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fIBdzFH7qDZZ9BTydfWF-2" value="Analyze business proses of auction closing" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="78.59999999999991" y="360" width="166.22" height="50" as="geometry" />
+          <mxGeometry x="322.9699999999999" y="130" width="166.22" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fIBdzFH7qDZZ9BTydfWF-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fIBdzFH7qDZZ9BTydfWF-3" target="fIBdzFH7qDZZ9BTydfWF-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fIBdzFH7qDZZ9BTydfWF-3" value="Analyze business proses of winner announcement" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="78.59999999999991" y="430" width="166.22" height="50" as="geometry" />
+          <mxGeometry x="322.9699999999999" y="200" width="166.22" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fIBdzFH7qDZZ9BTydfWF-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fIBdzFH7qDZZ9BTydfWF-9" target="fIBdzFH7qDZZ9BTydfWF-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="300" />
+              <mxPoint x="560" y="145" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fIBdzFH7qDZZ9BTydfWF-9" value="&lt;div&gt;1. BPMN Existing Auction&lt;/div&gt;&lt;div&gt;2. Meta data Existing Auction&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="69.41" y="500" width="184.58" height="60" as="geometry" />
+          <mxGeometry x="313.78" y="270" width="184.58" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fIBdzFH7qDZZ9BTydfWF-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fIBdzFH7qDZZ9BTydfWF-12" target="fIBdzFH7qDZZ9BTydfWF-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fIBdzFH7qDZZ9BTydfWF-12" value="Organize the elicited requirements into functional and non-functional categories" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="397.56000000000006" y="120" width="166.22" height="50" as="geometry" />
+          <mxGeometry x="614.4900000000001" y="120" width="166.22" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fIBdzFH7qDZZ9BTydfWF-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fIBdzFH7qDZZ9BTydfWF-15" target="fIBdzFH7qDZZ9BTydfWF-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fIBdzFH7qDZZ9BTydfWF-15" value="Document the gathered requirements." style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="397.56" y="190" width="166.22" height="50" as="geometry" />
+          <mxGeometry x="614.49" y="190" width="166.22" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fIBdzFH7qDZZ9BTydfWF-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fIBdzFH7qDZZ9BTydfWF-18" target="hCjjelzhOeql4R-USYPA-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fIBdzFH7qDZZ9BTydfWF-18" value="Requirements specification document" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="384.78" y="260" width="184.58" height="60" as="geometry" />
+          <mxGeometry x="601.71" y="260" width="184.58" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
