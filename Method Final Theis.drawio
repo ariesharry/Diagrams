@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T02:31:03.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7MsZVkAsssAVt6TiVPmo" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-06T02:43:12.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="s6tYzneDfNvYAiP7-Wkr" version="21.5.2" type="github">
   <diagram id="9HLhW9o5Pn7bnSsW2eLf" name="Page-1">
-    <mxGraphModel dx="2350" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2600" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ch7uVPKcHcK4L7EG8idV-20" value="Requirements Engineering" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ch7uVPKcHcK4L7EG8idV-20" value="Requirements Engineering" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="330" y="80" width="880" height="270" as="geometry" />
         </mxCell>
         <mxCell id="fIBdzFH7qDZZ9BTydfWF-10" value="&lt;b&gt;Requirements Documentation of &lt;br&gt;Auction Process&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=none;verticalAlign=bottom;direction=east;horizontal=0;flipH=0;flipV=1;" parent="1" vertex="1">
@@ -454,7 +454,7 @@
         <mxCell id="Ch7uVPKcHcK4L7EG8idV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ch7uVPKcHcK4L7EG8idV-7" target="Ch7uVPKcHcK4L7EG8idV-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ch7uVPKcHcK4L7EG8idV-7" value="Make BPMN Diagram of existing auction" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="Ch7uVPKcHcK4L7EG8idV-7" value="Create BPMN Diagram of existing auction" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="573.59" y="190" width="166.22" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ch7uVPKcHcK4L7EG8idV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ch7uVPKcHcK4L7EG8idV-8" target="Ch7uVPKcHcK4L7EG8idV-9">
