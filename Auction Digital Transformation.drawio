@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T16:59:16.826Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NWfQy44od18VpKroDvZr" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-06T17:03:23.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NMbhSmn-7p3_MM9BkXQu" version="21.5.2" type="github">
   <diagram name="Page-1" id="T2A-GawpZ_qJLsvUHE60">
     <mxGraphModel dx="2935" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -204,153 +204,37 @@
             <mxRectangle x="50" y="200" width="230" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaKidyv2OO5n8ayiB5-104" target="yezaKidyv2OO5n8ayiB5-106">
+        <mxCell id="yezaKidyv2OO5n8ayiB5-155" value="Identify metadata in existing auctions" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="yezaKidyv2OO5n8ayiB5-102">
+          <mxGeometry x="21" y="260" width="166.22" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaKidyv2OO5n8ayiB5-156" value="Create BPMN Diagram&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="yezaKidyv2OO5n8ayiB5-102">
+          <mxGeometry x="243.7300000000001" y="50" width="166.22" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaKidyv2OO5n8ayiB5-158" value="&lt;div&gt;BPMN IBEA&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="yezaKidyv2OO5n8ayiB5-102">
+          <mxGeometry x="237.99999999999986" y="130" width="177.69" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaKidyv2OO5n8ayiB5-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yezaKidyv2OO5n8ayiB5-102" source="yezaKidyv2OO5n8ayiB5-156" target="yezaKidyv2OO5n8ayiB5-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaKidyv2OO5n8ayiB5-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yezaKidyv2OO5n8ayiB5-102" source="yezaKidyv2OO5n8ayiB5-158">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="210.16" y="1025" />
-              <mxPoint x="210.16" y="790" />
-            </Array>
+            <mxPoint x="326.83000000000027" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-104" value="&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;(12.30-13.45 WIB)&lt;br&gt;&lt;/i&gt;Bidder submits their bid into the system" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="25.89" y="1000" width="166.22" height="50" as="geometry" />
+        <mxCell id="yezaKidyv2OO5n8ayiB5-161" value="Identify the actors involved in the existing auction process" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="yezaKidyv2OO5n8ayiB5-102">
+          <mxGeometry x="21" y="50" width="166.22" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaKidyv2OO5n8ayiB5-106" target="yezaKidyv2OO5n8ayiB5-117">
+        <mxCell id="yezaKidyv2OO5n8ayiB5-162" value="Identify the process/tasking of the existing auction" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="yezaKidyv2OO5n8ayiB5-102">
+          <mxGeometry x="21" y="120" width="166.22" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaKidyv2OO5n8ayiB5-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="yezaKidyv2OO5n8ayiB5-102" source="yezaKidyv2OO5n8ayiB5-161" target="yezaKidyv2OO5n8ayiB5-162">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-106" value="&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;(13.45 WIB)&lt;br&gt;&lt;/i&gt;Inacom closed the auction" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250.16000000000014" y="765" width="166.22" height="50" as="geometry" />
+        <mxCell id="yezaKidyv2OO5n8ayiB5-165" value="Identify decision points in the existing auction" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="yezaKidyv2OO5n8ayiB5-102">
+          <mxGeometry x="21" y="190" width="166.22" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-107" value="&lt;i&gt;(12.00-12.30 WIB)&lt;/i&gt;&lt;br&gt;PTPN Holding sent a list of CPO to be auctioned" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="25.889999999999986" y="765" width="166.22" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-108" value="&lt;i&gt;(12.00-12.30 WIB)&lt;br&gt;&lt;/i&gt;Inacom receives the list of CPO that is being auctioned and inputs it into the system" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="25.89" y="835" width="166.22" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yezaKidyv2OO5n8ayiB5-107" target="yezaKidyv2OO5n8ayiB5-108">
+        <mxCell id="yezaKidyv2OO5n8ayiB5-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yezaKidyv2OO5n8ayiB5-102" source="yezaKidyv2OO5n8ayiB5-162" target="yezaKidyv2OO5n8ayiB5-165">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaKidyv2OO5n8ayiB5-111" target="yezaKidyv2OO5n8ayiB5-104">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-111" value="&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;(12.30 WIB)&lt;br&gt;&lt;/i&gt;Inacom opens the auction and announces it to all participants" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="25.89" y="920" width="166.22" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaKidyv2OO5n8ayiB5-108" target="yezaKidyv2OO5n8ayiB5-111">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaKidyv2OO5n8ayiB5-115" target="yezaKidyv2OO5n8ayiB5-121">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaKidyv2OO5n8ayiB5-115" target="yezaKidyv2OO5n8ayiB5-119">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="240.16000000000003" y="927" />
-              <mxPoint x="240.16000000000003" y="1095" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-115" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Bidder price&amp;nbsp;≥&amp;nbsp;&lt;br&gt;price idea?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="287.69" y="897" width="91.16" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaKidyv2OO5n8ayiB5-117" target="yezaKidyv2OO5n8ayiB5-115">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-117" value="&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;(13.45 WIB)&lt;br&gt;&lt;/i&gt;PTPN Holding sent a price idea" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250.16000000000014" y="831" width="166.22" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="yezaKidyv2OO5n8ayiB5-119" target="yezaKidyv2OO5n8ayiB5-142">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-119" value="&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;(13.50 WIB)&lt;br&gt;&lt;/i&gt;Announce the auction winner" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="25.89000000000013" y="1070" width="166.22" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaKidyv2OO5n8ayiB5-121" target="yezaKidyv2OO5n8ayiB5-124">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-121" value="&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;(14.15 WIB)&lt;br&gt;&lt;/i&gt;Auction counter 1" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250.16000000000014" y="976" width="166.22" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaKidyv2OO5n8ayiB5-124" target="yezaKidyv2OO5n8ayiB5-126">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaKidyv2OO5n8ayiB5-124" target="yezaKidyv2OO5n8ayiB5-128">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-124" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Bidder price&amp;nbsp;≥&amp;nbsp;&lt;br&gt;price idea?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="287.69" y="1048" width="91.16" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="yezaKidyv2OO5n8ayiB5-126" target="yezaKidyv2OO5n8ayiB5-143">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-126" value="&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;(14.25 WIB)&lt;br&gt;&lt;/i&gt;Announce the auction winner" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="472.1600000000001" y="761.5" width="166.22" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaKidyv2OO5n8ayiB5-128" target="yezaKidyv2OO5n8ayiB5-131">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="450.16" y="1160" />
-              <mxPoint x="450.16" y="935" />
-              <mxPoint x="510.15999999999997" y="935" />
-              <mxPoint x="510.15999999999997" y="940" />
-              <mxPoint x="508.15999999999997" y="940" />
-              <mxPoint x="508.15999999999997" y="935" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-128" value="&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;(14.25 WIB)&lt;br&gt;&lt;/i&gt;Auction counter 2" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250.16000000000014" y="1135" width="166.22" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaKidyv2OO5n8ayiB5-131" target="yezaKidyv2OO5n8ayiB5-135">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaKidyv2OO5n8ayiB5-131" target="yezaKidyv2OO5n8ayiB5-133">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-131" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Bidder price&amp;nbsp;≥&amp;nbsp;&lt;br&gt;price idea?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="509.68999999999994" y="905" width="91.16" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="yezaKidyv2OO5n8ayiB5-133" target="yezaKidyv2OO5n8ayiB5-144">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-133" value="&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;(14.35 WIB)&lt;br&gt;&lt;/i&gt;Announce the auction winner" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="658.6300000000001" y="910" width="166.22" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaKidyv2OO5n8ayiB5-135" target="yezaKidyv2OO5n8ayiB5-138">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-135" value="&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;(14.35 WIB)&lt;br&gt;&lt;/i&gt;Auction counter 3" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="472.1600000000001" y="985" width="166.22" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaKidyv2OO5n8ayiB5-138" target="yezaKidyv2OO5n8ayiB5-141">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaKidyv2OO5n8ayiB5-138" target="yezaKidyv2OO5n8ayiB5-140">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-138" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Bidder price&amp;nbsp;≥&amp;nbsp;&lt;br&gt;price idea?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="509.68999999999994" y="1055" width="91.16" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="yezaKidyv2OO5n8ayiB5-140" target="yezaKidyv2OO5n8ayiB5-145">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-140" value="&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;(14.45 WIB)&lt;br&gt;&lt;/i&gt;Announce the auction winner" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="656.7400000000001" y="1060" width="166.22" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-141" value="&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;(14.45 WIB)&lt;br&gt;&lt;/i&gt;End auction" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="472.1600000000001" y="1135" width="166.22" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-142" value="Auction winner (single)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="24" y="1140" width="170" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-143" value="Auction winner (single)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="658.63" y="761.5" width="170" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-144" value="Auction winner (single)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="656.74" y="980" width="170" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-145" value="Auction winner (single)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="656.74" y="1130" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
