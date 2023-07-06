@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T10:51:50.980Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SBDU5NnvWU0tQCTJykXw" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-06T11:34:43.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OKDUl0TYUdNpn-JT9yKs" version="21.5.2" type="github">
   <diagram id="9HLhW9o5Pn7bnSsW2eLf" name="Page-1">
     <mxGraphModel dx="1235" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
         <mxCell id="Ch7uVPKcHcK4L7EG8idV-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Ch7uVPKcHcK4L7EG8idV-20" source="Ch7uVPKcHcK4L7EG8idV-8" target="Ch7uVPKcHcK4L7EG8idV-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ch7uVPKcHcK4L7EG8idV-8" value="&lt;div&gt;BPMN Existing Auction&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="Ch7uVPKcHcK4L7EG8idV-20" vertex="1">
+        <mxCell id="Ch7uVPKcHcK4L7EG8idV-8" value="&lt;div&gt;BPMN Existing Auction&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="Ch7uVPKcHcK4L7EG8idV-20" vertex="1">
           <mxGeometry x="271.1599999999999" y="200" width="177.69" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ch7uVPKcHcK4L7EG8idV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Ch7uVPKcHcK4L7EG8idV-20" source="Ch7uVPKcHcK4L7EG8idV-7" target="Ch7uVPKcHcK4L7EG8idV-8" edge="1">
