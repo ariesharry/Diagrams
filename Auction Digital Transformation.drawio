@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T00:33:23.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="g-9gVPYniOUJ5XcDKxev" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-07T00:33:47.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3-CjDZsi6J9sFFkBu5S_" version="21.5.2" type="github">
   <diagram name="Page-1" id="T2A-GawpZ_qJLsvUHE60">
     <mxGraphModel dx="2569" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -362,20 +362,38 @@
         <mxCell id="yezaKidyv2OO5n8ayiB5-224" value="Develop ERP Modules" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="yezaKidyv2OO5n8ayiB5-214">
           <mxGeometry x="420" y="40" width="391" height="310" as="geometry" />
         </mxCell>
+        <mxCell id="yezaKidyv2OO5n8ayiB5-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yezaKidyv2OO5n8ayiB5-224" source="yezaKidyv2OO5n8ayiB5-245" target="yezaKidyv2OO5n8ayiB5-246">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yezaKidyv2OO5n8ayiB5-245" value="Define ERP owner" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="yezaKidyv2OO5n8ayiB5-224">
           <mxGeometry x="21" y="40" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaKidyv2OO5n8ayiB5-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yezaKidyv2OO5n8ayiB5-224" source="yezaKidyv2OO5n8ayiB5-246" target="yezaKidyv2OO5n8ayiB5-247">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yezaKidyv2OO5n8ayiB5-246" value="Identify ERP modules needed in auction process" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="yezaKidyv2OO5n8ayiB5-224">
           <mxGeometry x="21" y="110" width="150" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="yezaKidyv2OO5n8ayiB5-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yezaKidyv2OO5n8ayiB5-224" source="yezaKidyv2OO5n8ayiB5-247" target="yezaKidyv2OO5n8ayiB5-248">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yezaKidyv2OO5n8ayiB5-247" value="Defines the meta data in the module" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="yezaKidyv2OO5n8ayiB5-224">
           <mxGeometry x="21" y="180" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaKidyv2OO5n8ayiB5-260" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yezaKidyv2OO5n8ayiB5-224" source="yezaKidyv2OO5n8ayiB5-248" target="yezaKidyv2OO5n8ayiB5-249">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yezaKidyv2OO5n8ayiB5-248" value="Create a data model on the ERP database" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="yezaKidyv2OO5n8ayiB5-224">
           <mxGeometry x="21" y="250" width="150" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="yezaKidyv2OO5n8ayiB5-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yezaKidyv2OO5n8ayiB5-224" source="yezaKidyv2OO5n8ayiB5-249" target="yezaKidyv2OO5n8ayiB5-250">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yezaKidyv2OO5n8ayiB5-249" value="Create a data model for each modules" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="yezaKidyv2OO5n8ayiB5-224">
           <mxGeometry x="221" y="40" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaKidyv2OO5n8ayiB5-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yezaKidyv2OO5n8ayiB5-224" source="yezaKidyv2OO5n8ayiB5-250" target="yezaKidyv2OO5n8ayiB5-255">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yezaKidyv2OO5n8ayiB5-250" value="Deploy modules to ERP&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="yezaKidyv2OO5n8ayiB5-224">
           <mxGeometry x="221" y="110" width="150" height="50" as="geometry" />
