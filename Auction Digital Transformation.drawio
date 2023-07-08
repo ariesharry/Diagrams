@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-08T16:33:52.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tGfGEKVvT3FHq-VuQrCh" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-08T16:34:46.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tEfpSWlZEutxy1O96AuY" version="21.6.1" type="github">
   <diagram name="Page-1" id="T2A-GawpZ_qJLsvUHE60">
-    <mxGraphModel dx="2950" dy="2346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2350" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -418,6 +418,12 @@
             <mxPoint x="-111" y="415" as="sourcePoint" />
             <mxPoint x="829" y="415" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iU5nzJZfHMQESBjlXghP-60" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Blockchain-based&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="iU5nzJZfHMQESBjlXghP-52">
+          <mxGeometry x="476.39" y="610" width="138.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iU5nzJZfHMQESBjlXghP-61" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;ERP-based&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="iU5nzJZfHMQESBjlXghP-52">
+          <mxGeometry x="100.31" y="610" width="138.54" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iU5nzJZfHMQESBjlXghP-10" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;Integrated On-chain&amp;nbsp; &amp;amp; &lt;br&gt;Off-chain process&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="397.32000000000005" y="-528" width="60" height="30" as="geometry" />
