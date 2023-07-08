@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-08T15:37:23.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="W-4iYlLx2EqAqnCYiQkr" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-08T15:42:50.159Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tEkMYecXBPWJ40hQjMsz" version="21.6.1" type="github">
   <diagram name="Page-1" id="T2A-GawpZ_qJLsvUHE60">
-    <mxGraphModel dx="1909" dy="2233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="1879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -404,6 +404,24 @@
         </mxCell>
         <mxCell id="iU5nzJZfHMQESBjlXghP-16" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;On-chain&lt;br&gt;data&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="520" y="-230" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iU5nzJZfHMQESBjlXghP-18" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;Off-chain&lt;br&gt;data&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-230" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iU5nzJZfHMQESBjlXghP-19" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;Integrated On-chain&amp;nbsp; &amp;amp; &lt;br&gt;Off-chain data&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="406.25" y="-270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iU5nzJZfHMQESBjlXghP-22" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Blockchain&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="490.27" y="-140" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iU5nzJZfHMQESBjlXghP-23" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Peers node&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;CA&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;MSP&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Smart contract/chaincode&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;REST API&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;ReactJS&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-80" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iU5nzJZfHMQESBjlXghP-24" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;ERP&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="222.38" y="-140" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iU5nzJZfHMQESBjlXghP-25" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Profiling module&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Material flow module&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;PostgreSQL&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;REST API&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;ReactJS&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="192.11" y="-80" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
