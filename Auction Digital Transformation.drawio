@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T01:45:55.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="AHrOimHUJt8Z894q6tiO" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-09T01:53:36.974Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="u-U8qRidNTlPQL7lH-SA" version="21.6.1" type="github">
   <diagram name="Page-1" id="T2A-GawpZ_qJLsvUHE60">
     <mxGraphModel dx="2250" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="yezaKidyv2OO5n8ayiB5-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yezaKidyv2OO5n8ayiB5-98" target="yezaKidyv2OO5n8ayiB5-102" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-98" value="Existing Auction Business Model" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="yezaKidyv2OO5n8ayiB5-98" value="Existing Auction Business Process" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="9" y="190" width="831.16" height="470" as="geometry">
             <mxRectangle x="50" y="200" width="230" height="30" as="alternateBounds" />
           </mxGeometry>
