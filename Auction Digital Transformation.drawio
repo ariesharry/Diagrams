@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T12:00:34.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="s2VGe0DqYydaDyNklQPY" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-09T12:00:53.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="rroMnDKcCqKqUVdDPoDn" version="21.6.1" type="github">
   <diagram name="Page-1" id="T2A-GawpZ_qJLsvUHE60">
     <mxGraphModel dx="1850" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -226,6 +226,12 @@
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-6" value="&lt;font size=&quot;1&quot;&gt;Need to integrate with an ERP module?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="yezaKidyv2OO5n8ayiB5-102">
           <mxGeometry x="58.52999999999997" y="310" width="91.16" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FigCAO-AqFFWCJ8DLBKD-16" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="yezaKidyv2OO5n8ayiB5-102">
+          <mxGeometry x="214.26999999999998" y="135" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FigCAO-AqFFWCJ8DLBKD-17" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="yezaKidyv2OO5n8ayiB5-102">
+          <mxGeometry x="304.43" y="189" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yezaKidyv2OO5n8ayiB5-183" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(26, 26, 26); text-align: right;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Data Model Transformation&lt;/font&gt;&lt;/b&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480.16" y="720" width="360" height="330" as="geometry" />
