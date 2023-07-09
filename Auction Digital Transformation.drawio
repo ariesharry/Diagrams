@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T02:02:13.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="He2Ll1eLlrLo-y7OrknI" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-09T11:41:34.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="J48Cdepak67inzDRRiNE" version="21.6.1" type="github">
   <diagram name="Page-1" id="T2A-GawpZ_qJLsvUHE60">
     <mxGraphModel dx="1850" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -173,12 +173,6 @@
             <mxRectangle x="50" y="200" width="230" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-102" source="yezaKidyv2OO5n8ayiB5-155" target="yezaKidyv2OO5n8ayiB5-170" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-155" value="Identify metadata&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
-          <mxGeometry x="21" y="260" width="166.22" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="yezaKidyv2OO5n8ayiB5-156" value="Create BPMN Diagram&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
           <mxGeometry x="231.00000000000014" y="190" width="166.22" height="50" as="geometry" />
         </mxCell>
@@ -191,32 +185,21 @@
         <mxCell id="yezaKidyv2OO5n8ayiB5-161" value="Identify the actors involved" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
           <mxGeometry x="21" y="50" width="166.22" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-162" value="Identify the process/tasking&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
+        <mxCell id="yezaKidyv2OO5n8ayiB5-162" value="Identify the existing auction process" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
           <mxGeometry x="21" y="120" width="166.22" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yezaKidyv2OO5n8ayiB5-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="yezaKidyv2OO5n8ayiB5-102" source="yezaKidyv2OO5n8ayiB5-161" target="yezaKidyv2OO5n8ayiB5-162" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-102" source="yezaKidyv2OO5n8ayiB5-165" target="yezaKidyv2OO5n8ayiB5-155" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="yezaKidyv2OO5n8ayiB5-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-102" source="yezaKidyv2OO5n8ayiB5-162" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="104.1099999999999" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-165" value="Identify decision points" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
-          <mxGeometry x="21" y="190" width="166.22" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-102" source="yezaKidyv2OO5n8ayiB5-162" target="yezaKidyv2OO5n8ayiB5-165" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-102" source="yezaKidyv2OO5n8ayiB5-170" target="yezaKidyv2OO5n8ayiB5-171" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-170" value="Identify on-chain and off-chain data" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
-          <mxGeometry x="231" y="50" width="166.22" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-102" source="yezaKidyv2OO5n8ayiB5-171" target="yezaKidyv2OO5n8ayiB5-156" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-171" value="Identify the required ERP modules" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
-          <mxGeometry x="231" y="120" width="166.22" height="50" as="geometry" />
+        <mxCell id="yezaKidyv2OO5n8ayiB5-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-102" target="yezaKidyv2OO5n8ayiB5-156" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="314.1099999999997" y="170" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yezaKidyv2OO5n8ayiB5-183" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(26, 26, 26); text-align: right;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Data Model Transformation&lt;/font&gt;&lt;/b&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480.16" y="720" width="360" height="330" as="geometry" />
