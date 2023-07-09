@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T12:49:07.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="gluEln6xn00AHStSMhRv" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-09T12:50:11.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4GJbMm-mHWWfqLfSJdjj" version="21.6.1" type="github">
   <diagram name="Page-1" id="T2A-GawpZ_qJLsvUHE60">
     <mxGraphModel dx="1955" dy="1756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -280,34 +280,11 @@
         <mxCell id="yezaKidyv2OO5n8ayiB5-183" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(26, 26, 26); text-align: right;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Data Model Transformation&lt;/font&gt;&lt;/b&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480.16" y="720" width="360" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="FigCAO-AqFFWCJ8DLBKD-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yezaKidyv2OO5n8ayiB5-183" source="yezaKidyv2OO5n8ayiB5-185" target="FigCAO-AqFFWCJ8DLBKD-32">
+        <mxCell id="FigCAO-AqFFWCJ8DLBKD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yezaKidyv2OO5n8ayiB5-183" source="yezaKidyv2OO5n8ayiB5-185" target="FigCAO-AqFFWCJ8DLBKD-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yezaKidyv2OO5n8ayiB5-185" value="Identify existing auction data model" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-183" vertex="1">
           <mxGeometry x="10" y="90" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-183" target="yezaKidyv2OO5n8ayiB5-200" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="274.99999999999983" y="87" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-199" value="Defining business logic in smart contracts" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-183" vertex="1">
-          <mxGeometry x="200" y="42" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-183" source="yezaKidyv2OO5n8ayiB5-200" target="yezaKidyv2OO5n8ayiB5-201" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-200" value="Complie smart contract" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-183" vertex="1">
-          <mxGeometry x="200" y="107" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.541;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" parent="yezaKidyv2OO5n8ayiB5-183" source="yezaKidyv2OO5n8ayiB5-201" target="yezaKidyv2OO5n8ayiB5-202" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-201" value="Deploy smart contract" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-183" vertex="1">
-          <mxGeometry x="200" y="177" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-202" value="&lt;div&gt;Smart contract of&lt;/div&gt;&lt;div&gt;I&lt;span style=&quot;background-color: initial;&quot;&gt;BEA Model&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="yezaKidyv2OO5n8ayiB5-183" vertex="1">
-          <mxGeometry x="190" y="247" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yezaKidyv2OO5n8ayiB5-183" source="FigCAO-AqFFWCJ8DLBKD-31" target="yezaKidyv2OO5n8ayiB5-185">
           <mxGeometry relative="1" as="geometry" />
@@ -316,7 +293,7 @@
           <mxGeometry x="49.920000000000016" y="32" width="70.16" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-32" value="&lt;font size=&quot;1&quot;&gt;Need to be stored in Blockchain?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="yezaKidyv2OO5n8ayiB5-183">
-          <mxGeometry x="39.4199999999999" y="167" width="91.16" height="60" as="geometry" />
+          <mxGeometry x="39.4199999999999" y="160" width="91.16" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yezaKidyv2OO5n8ayiB5-214" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(26, 26, 26); text-align: right;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Technology Transformation&lt;/font&gt;&lt;/b&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="11.82" y="1180" width="831" height="370" as="geometry" />
