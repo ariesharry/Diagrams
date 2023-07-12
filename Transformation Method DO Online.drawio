@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T00:51:36.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nXcnmNYyvyyjkkR8pxLt" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T00:56:25.178Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6goNLv_ysIM1BFuUrNvx" version="21.6.1" type="github">
   <diagram name="Page-1" id="T2A-GawpZ_qJLsvUHE60">
-    <mxGraphModel dx="2085" dy="1833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1900" dy="1723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,8 +15,8 @@
             <mxRectangle x="50" y="200" width="230" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-156" value="Defining the auction process in the smart contract function&lt;br&gt;(on-chain process)" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
-          <mxGeometry x="16.730000000000143" y="172" width="166.22" height="50" as="geometry" />
+        <mxCell id="yezaKidyv2OO5n8ayiB5-156" value="Defining the DO Online process in the smart contract function&lt;br&gt;(on-chain process)" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
+          <mxGeometry x="16.73" y="172" width="173.27" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-102" source="yezaKidyv2OO5n8ayiB5-158" target="FigCAO-AqFFWCJ8DLBKD-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -30,7 +30,7 @@
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-102" source="yezaKidyv2OO5n8ayiB5-161" target="yezaKidyv2OO5n8ayiB5-162" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-161" value="Identify the actors involved in the auction" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
+        <mxCell id="yezaKidyv2OO5n8ayiB5-161" value="Identify the actors involved in the DO Online" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
           <mxGeometry x="16.73" y="87" width="166.22" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-102" target="FigCAO-AqFFWCJ8DLBKD-1" edge="1">
@@ -38,7 +38,7 @@
             <mxPoint x="319.84999999999945" y="87" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-162" value="Identify the existing auction process" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
+        <mxCell id="yezaKidyv2OO5n8ayiB5-162" value="Identify the existing DO online process" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
           <mxGeometry x="236.74" y="42" width="166.22" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="yezaKidyv2OO5n8ayiB5-102" source="FigCAO-AqFFWCJ8DLBKD-1" target="yezaKidyv2OO5n8ayiB5-156" edge="1">
@@ -53,7 +53,7 @@
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-102" source="FigCAO-AqFFWCJ8DLBKD-5" target="FigCAO-AqFFWCJ8DLBKD-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FigCAO-AqFFWCJ8DLBKD-5" value="Auction process not changed&lt;br&gt;(off-chain process)" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
+        <mxCell id="FigCAO-AqFFWCJ8DLBKD-5" value="DO Online process not changed&lt;br&gt;(off-chain process)" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
           <mxGeometry x="236.74000000000015" y="217" width="166.22" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-102" source="FigCAO-AqFFWCJ8DLBKD-6" target="FigCAO-AqFFWCJ8DLBKD-18" edge="1">
@@ -68,7 +68,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FigCAO-AqFFWCJ8DLBKD-6" value="&lt;font size=&quot;1&quot;&gt;Need to integrate with an ERP module?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
+        <mxCell id="FigCAO-AqFFWCJ8DLBKD-6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Need to integrate with an Existing DO online?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
           <mxGeometry x="54.25999999999998" y="339" width="91.16" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-16" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
@@ -80,7 +80,7 @@
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-102" source="FigCAO-AqFFWCJ8DLBKD-18" target="FigCAO-AqFFWCJ8DLBKD-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FigCAO-AqFFWCJ8DLBKD-18" value="Integrate with ERP modules" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
+        <mxCell id="FigCAO-AqFFWCJ8DLBKD-18" value="Integrate with Existing DO Online" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
           <mxGeometry x="236.74000000000015" y="302" width="166.22" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-102" source="FigCAO-AqFFWCJ8DLBKD-19" target="yezaKidyv2OO5n8ayiB5-161" edge="1">
@@ -107,7 +107,7 @@
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-183" source="yezaKidyv2OO5n8ayiB5-185" target="FigCAO-AqFFWCJ8DLBKD-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yezaKidyv2OO5n8ayiB5-185" value="Identify existing auction data model" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-183" vertex="1">
+        <mxCell id="yezaKidyv2OO5n8ayiB5-185" value="Identify existing DO Online data model" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-183" vertex="1">
           <mxGeometry x="179.84" y="32" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-183" source="FigCAO-AqFFWCJ8DLBKD-31" target="yezaKidyv2OO5n8ayiB5-185" edge="1">
@@ -128,7 +128,7 @@
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-183" source="FigCAO-AqFFWCJ8DLBKD-36" target="FigCAO-AqFFWCJ8DLBKD-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FigCAO-AqFFWCJ8DLBKD-36" value="Defining the auction data model in the smart contract struct&lt;br&gt;(on-chain data)" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-183" vertex="1">
+        <mxCell id="FigCAO-AqFFWCJ8DLBKD-36" value="Defining the DO Online data model in the smart contract struct&lt;br&gt;(on-chain data)" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-183" vertex="1">
           <mxGeometry x="169.84" y="185" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-183" source="FigCAO-AqFFWCJ8DLBKD-37" target="FigCAO-AqFFWCJ8DLBKD-43" edge="1">
@@ -154,7 +154,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FigCAO-AqFFWCJ8DLBKD-43" value="&lt;font size=&quot;1&quot;&gt;Need to integrate with an ERP module?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="yezaKidyv2OO5n8ayiB5-183" vertex="1">
+        <mxCell id="FigCAO-AqFFWCJ8DLBKD-43" value="Need to integrate with an Existing DO online?" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" parent="yezaKidyv2OO5n8ayiB5-183" vertex="1">
           <mxGeometry x="214.2599999999999" y="320" width="91.16" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-44" value="Data model is not modified&lt;br&gt;(off-chain data)" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-183" vertex="1">
@@ -163,7 +163,7 @@
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-183" source="FigCAO-AqFFWCJ8DLBKD-45" target="FigCAO-AqFFWCJ8DLBKD-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FigCAO-AqFFWCJ8DLBKD-45" value="Integrate with ERP modules" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-183" vertex="1">
+        <mxCell id="FigCAO-AqFFWCJ8DLBKD-45" value="Integrate with Existing DO Online" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-183" vertex="1">
           <mxGeometry x="9.839999999999975" y="241" width="129.84" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-183" source="FigCAO-AqFFWCJ8DLBKD-44" target="FigCAO-AqFFWCJ8DLBKD-45" edge="1">
