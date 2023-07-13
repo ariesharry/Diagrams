@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T08:07:26.944Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="47W6-Ln3uarSRmjN45iX" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-13T08:08:37.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="b8TFSr7m3-ldv1HEwGE4" version="21.6.2" type="github">
   <diagram name="Page-1" id="T2A-GawpZ_qJLsvUHE60">
     <mxGraphModel dx="1900" dy="1723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -337,7 +337,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bBkC8RfmuVZR49ojGKow-6" value="&lt;div&gt;PKS Profile,&lt;/div&gt;&lt;div&gt;Auction Supply,&lt;/div&gt;&lt;div&gt;Commodity details,&lt;/div&gt;&lt;div&gt;Material flow&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="yezaKidyv2OO5n8ayiB5-183" vertex="1">
-          <mxGeometry x="250" y="353" width="177.69" height="60" as="geometry" />
+          <mxGeometry x="250" y="358" width="177.69" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-44" value="Data model is not modified&lt;br&gt;(off-chain data)" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-183" vertex="1">
           <mxGeometry x="30" y="293" width="160" height="50" as="geometry" />
@@ -346,7 +346,7 @@
           <mxGeometry x="30" y="363" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-48" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="yezaKidyv2OO5n8ayiB5-183" vertex="1">
-          <mxGeometry x="70.49999999999989" y="432" width="70.16" height="30" as="geometry" />
+          <mxGeometry x="74.91999999999989" y="432" width="70.16" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-183" source="FigCAO-AqFFWCJ8DLBKD-45" target="FigCAO-AqFFWCJ8DLBKD-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
