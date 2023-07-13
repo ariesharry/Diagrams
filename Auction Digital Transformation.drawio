@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T08:11:05.445Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="cdKabf2gJ4LnvJblKZww" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-13T08:13:46.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8GxLhhyGx7E_7Dwmyzm4" version="21.6.2" type="github">
   <diagram name="Page-1" id="T2A-GawpZ_qJLsvUHE60">
     <mxGraphModel dx="1900" dy="1723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -196,7 +196,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yezaKidyv2OO5n8ayiB5-102" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(26, 26, 26); text-align: right;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Auction Process Transformation&lt;/font&gt;&lt;/b&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="8.84" y="740" width="431" height="430" as="geometry">
+          <mxGeometry x="8.84" y="740" width="431" height="470" as="geometry">
             <mxRectangle x="50" y="200" width="230" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -233,40 +233,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-1" value="&lt;font size=&quot;1&quot;&gt;Need to be conducted on Blockchain?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
-          <mxGeometry x="274.27" y="117" width="91.16" height="60" as="geometry" />
+          <mxGeometry x="274.27" y="190" width="91.16" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-102" source="FigCAO-AqFFWCJ8DLBKD-5" target="FigCAO-AqFFWCJ8DLBKD-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-5" value="Terminate Blockchain operations" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
-          <mxGeometry x="236.74000000000015" y="217" width="166.22" height="50" as="geometry" />
+          <mxGeometry x="236.74000000000015" y="272" width="166.22" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-102" source="FigCAO-AqFFWCJ8DLBKD-6" target="FigCAO-AqFFWCJ8DLBKD-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FigCAO-AqFFWCJ8DLBKD-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-102" source="FigCAO-AqFFWCJ8DLBKD-6" target="FigCAO-AqFFWCJ8DLBKD-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="100" y="417" />
-              <mxPoint x="215" y="417" />
-              <mxPoint x="215" y="392" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-6" value="&lt;font size=&quot;1&quot;&gt;Need to integrate with an ERP module?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
           <mxGeometry x="54.25999999999998" y="339" width="91.16" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-16" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
-          <mxGeometry x="214.26999999999998" y="122" width="60" height="30" as="geometry" />
+          <mxGeometry x="224.76999999999998" y="192" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-17" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
-          <mxGeometry x="304.43" y="176" width="60" height="30" as="geometry" />
+          <mxGeometry x="311.16" y="242" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-102" source="FigCAO-AqFFWCJ8DLBKD-18" target="FigCAO-AqFFWCJ8DLBKD-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-18" value="Integrate with ERP modules" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
-          <mxGeometry x="236.74000000000015" y="302" width="166.22" height="50" as="geometry" />
+          <mxGeometry x="236.74000000000015" y="344" width="166.22" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yezaKidyv2OO5n8ayiB5-102" source="FigCAO-AqFFWCJ8DLBKD-19" target="yezaKidyv2OO5n8ayiB5-161" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -275,13 +266,20 @@
           <mxGeometry x="64.76" y="32" width="70.16" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-22" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
-          <mxGeometry x="284.77" y="377" width="70.16" height="30" as="geometry" />
+          <mxGeometry x="284.77" y="429" width="70.16" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-26" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
           <mxGeometry x="145.42" y="347" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aI9COdWsJWkqn94S0Gqt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yezaKidyv2OO5n8ayiB5-102" source="FigCAO-AqFFWCJ8DLBKD-29" target="FigCAO-AqFFWCJ8DLBKD-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="444" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FigCAO-AqFFWCJ8DLBKD-29" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="yezaKidyv2OO5n8ayiB5-102" vertex="1">
-          <mxGeometry x="97.92000000000002" y="392" width="60" height="30" as="geometry" />
+          <mxGeometry x="85.42000000000002" y="399" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yezaKidyv2OO5n8ayiB5-183" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(26, 26, 26); text-align: right;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Data Model Transformation&lt;/font&gt;&lt;/b&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="470" y="740" width="470" height="470" as="geometry" />
