@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T00:25:04.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.5" etag="vZPsGJvYxUwLUNfSaIDU" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-30T00:38:01.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="TMqQQjX9zYdWMjGRiCdy" version="21.6.5" type="github">
   <diagram name="Page-1" id="SW3CSJqqK4Gz-iPrINNN">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="F5YyWr6yQN8ACxqh0lwV-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="305" y="180" width="285" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="F5YyWr6yQN8ACxqh0lwV-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="190" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F5YyWr6yQN8ACxqh0lwV-3" value="&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#007fff&quot;&gt;auction_id&lt;/font&gt; : 00004&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#007fff&quot;&gt;item_sold&lt;/font&gt; : CPO&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#007fff&quot;&gt;seller&lt;/font&gt; : PTPN IV&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#007fff&quot;&gt;start_time&lt;/font&gt; : 12.30 WIB&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#007fff&quot;&gt;end_time&lt;/font&gt; : 13.45 WIB&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#007fff&quot;&gt;reserve_price&lt;/font&gt; : 10018&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#007fff&quot;&gt;quantity &lt;/font&gt;: 2000&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#007fff&quot;&gt;price &lt;/font&gt;: [clearing price]&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#007fff&quot;&gt;status &lt;/font&gt;: Open&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#007fff&quot;&gt;bids &lt;/font&gt;: [array of bids]&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=16;arcSize=7;verticalAlign=middle;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="260" width="260" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="F5YyWr6yQN8ACxqh0lwV-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="440" width="260" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
