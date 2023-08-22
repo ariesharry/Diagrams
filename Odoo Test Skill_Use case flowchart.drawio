@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T17:03:30.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="X3C2dWLj0dQqnBa7f8Sl" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T17:05:39.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="gZYiMHC80PGGGzeem8vP" version="21.6.8" type="github">
   <diagram name="Page-1" id="zFJyfzALChtRXlv1Sgy3">
     <mxGraphModel dx="1050" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -125,11 +125,17 @@
         <mxCell id="eSUzLrRJqdItIHo75qTO-39" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="395" y="1260" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="eSUzLrRJqdItIHo75qTO-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eSUzLrRJqdItIHo75qTO-41" target="eSUzLrRJqdItIHo75qTO-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eSUzLrRJqdItIHo75qTO-41" value="Salesperson selects a customer and adds products to the Sales Order." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="1070" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eSUzLrRJqdItIHo75qTO-45" value="Business Scenario&lt;br&gt;Multi-level Discount Flow" style="text;whiteSpace=wrap;html=1;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="242.5" y="930" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eSUzLrRJqdItIHo75qTO-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eSUzLrRJqdItIHo75qTO-47" target="eSUzLrRJqdItIHo75qTO-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eSUzLrRJqdItIHo75qTO-47" value="System automatically applies the first-level discount based on the customer type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="1160" width="180" height="60" as="geometry" />
@@ -137,20 +143,32 @@
         <mxCell id="eSUzLrRJqdItIHo75qTO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eSUzLrRJqdItIHo75qTO-49" target="eSUzLrRJqdItIHo75qTO-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSUzLrRJqdItIHo75qTO-49" value="System blocks the validation of the Sales Order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eSUzLrRJqdItIHo75qTO-49" value="Sales Supervisor gets a notification for approval of the third-level discount" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="990" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eSUzLrRJqdItIHo75qTO-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eSUzLrRJqdItIHo75qTO-51" target="eSUzLrRJqdItIHo75qTO-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSUzLrRJqdItIHo75qTO-51" value="Sales Manager gets &lt;br&gt;a notification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eSUzLrRJqdItIHo75qTO-51" value="Once approved, the system calculates the total discount in the &quot;1+2+3&quot; format and displays it on the Sales Order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="1080" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eSUzLrRJqdItIHo75qTO-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eSUzLrRJqdItIHo75qTO-53" target="eSUzLrRJqdItIHo75qTO-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSUzLrRJqdItIHo75qTO-53" value="Sales Manager can either override the block or ask the customer to clear the overdue invoices" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eSUzLrRJqdItIHo75qTO-53" value="The Sales Order is then validated, and the discounts are reflected in the invoice and journal entries" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="1170" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eSUzLrRJqdItIHo75qTO-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eSUzLrRJqdItIHo75qTO-54" target="eSUzLrRJqdItIHo75qTO-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSUzLrRJqdItIHo75qTO-54" value="System checks for any second-level discounts on the selected products or product categories and applies them." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1250" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eSUzLrRJqdItIHo75qTO-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eSUzLrRJqdItIHo75qTO-55" target="eSUzLrRJqdItIHo75qTO-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSUzLrRJqdItIHo75qTO-55" value="Salesperson can manually input a third-level discount on the sales order line" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1340" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
