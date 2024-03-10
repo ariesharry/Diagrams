@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T09:39:57.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Xkke802fvJ4t_gK0LjbK" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-10T09:41:18.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="VBM7HFih_zK94hXiwcAJ" version="24.0.2" type="github">
   <diagram name="Page-1" id="ReCHwLZydMTFlminMiEf">
     <mxGraphModel dx="1105" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="OzLQzeTqsJq5WQBJtTH5-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png;" parent="1" vertex="1">
           <mxGeometry x="612.13" y="467" width="102.13" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OzLQzeTqsJq5WQBJtTH5-16" value="Dapp/wallet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;flipH=0;" parent="1" vertex="1">
+        <mxCell id="OzLQzeTqsJq5WQBJtTH5-16" value="Dapp/wallet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#168e8d;strokeColor=none;fontSize=12;flipH=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="209.3" y="379.5" width="81.27" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzLQzeTqsJq5WQBJtTH5-17" value="Intelligent Dashboard" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C2E8C1;strokeColor=#82b366;fontSize=12;flipH=0;" parent="1" vertex="1">
