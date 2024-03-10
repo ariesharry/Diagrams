@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T09:36:03.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="0940UXBQlG1IIMKUiw0h" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-10T09:36:58.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="lGSmTBe8p0di9_R3zWe2" version="24.0.2" type="github">
   <diagram name="Page-1" id="ReCHwLZydMTFlminMiEf">
-    <mxGraphModel dx="1909" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="913" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="614.67" y="367" width="99.59" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OzLQzeTqsJq5WQBJtTH5-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png;" parent="1" vertex="1">
-          <mxGeometry x="612.13" y="472" width="102.13" height="40" as="geometry" />
+          <mxGeometry x="612.13" y="467" width="102.13" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzLQzeTqsJq5WQBJtTH5-16" value="Dapp/wallet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;flipH=0;" parent="1" vertex="1">
           <mxGeometry x="209.3" y="379.5" width="81.27" height="40" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="499.3" y="379.5" width="81.27" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzLQzeTqsJq5WQBJtTH5-22" value="Model Machine Learning" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="429.3" y="472" width="60" height="30" as="geometry" />
+          <mxGeometry x="425" y="472" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzLQzeTqsJq5WQBJtTH5-23" value="REST API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="324.3" y="470.75" width="90" height="32.5" as="geometry" />
