@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T02:54:27.263Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="FPGCOlE_73XmOxJUot_L" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T03:07:43.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="JitnBzISDuiK_nTWj307" version="24.6.2" type="github">
   <diagram id="_LS9YpCe_xg42UgXGaqf" name="Page-1">
     <mxGraphModel dx="1077" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -77,7 +77,7 @@
           <mxGeometry x="670.0000000000001" y="302.5" width="23" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wubzCxcxlcs8XnG_Z0-p-21" value="Ministries and Institutions" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="793.5000000000001" y="462.95" width="23" height="40" as="geometry" />
+          <mxGeometry x="925.0000000000001" y="894" width="23" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wubzCxcxlcs8XnG_Z0-p-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Kaol6DMg58NmLU8iuL14-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -105,6 +105,105 @@
         </mxCell>
         <mxCell id="wubzCxcxlcs8XnG_Z0-p-29" value="Back-end" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1005" y="175" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-37" value="Ministries and Institutions" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="803.5000000000001" y="472.95" width="23" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-38" value="Palm Oil Mills" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="670" width="23" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-39" value="Farmer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="710" y="670" width="23" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-40" value="Intermediatery" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="930.0000000000002" y="670" width="23" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-44" value="Farmer Profile&lt;div&gt;Palm Oil Plantation Profile&lt;/div&gt;" style="verticalAlign=middle;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="674.75" y="770" width="95.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-46" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;Intermediatery&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;Profile&lt;/span&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="893.88" y="770" width="95.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-47" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;Palm Oil Mills&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;Profile&lt;/span&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1113.87" y="770" width="95.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-50" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-1-1/50/link-connection-relationship-chain-joint-128.png;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="768.4499999999999" y="792.8199999999999" width="24.35" height="24.35" as="geometry" />
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-51" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-1-1/50/link-connection-relationship-chain-joint-128.png;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="792.8" y="792.8299999999999" width="24.35" height="24.35" as="geometry" />
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-52" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-1-1/50/link-connection-relationship-chain-joint-128.png;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="817.15" y="792.8199999999999" width="24.35" height="24.35" as="geometry" />
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-53" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-1-1/50/link-connection-relationship-chain-joint-128.png;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="841.3" y="792.8299999999999" width="24.35" height="24.35" as="geometry" />
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-54" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-1-1/50/link-connection-relationship-chain-joint-128.png;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="865.65" y="792.8299999999999" width="24.35" height="24.35" as="geometry" />
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-61" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-1-1/50/link-connection-relationship-chain-joint-128.png;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="987.1299999999999" y="792.81" width="24.35" height="24.35" as="geometry" />
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-62" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-1-1/50/link-connection-relationship-chain-joint-128.png;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="1011.48" y="792.8199999999999" width="24.35" height="24.35" as="geometry" />
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-63" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-1-1/50/link-connection-relationship-chain-joint-128.png;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="1035.83" y="792.81" width="24.35" height="24.35" as="geometry" />
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-64" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-1-1/50/link-connection-relationship-chain-joint-128.png;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="1059.98" y="792.8199999999999" width="24.35" height="24.35" as="geometry" />
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-65" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-1-1/50/link-connection-relationship-chain-joint-128.png;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="1084.33" y="792.8199999999999" width="24.35" height="24.35" as="geometry" />
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=70;exitDy=52.625;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="wubzCxcxlcs8XnG_Z0-p-44" target="wubzCxcxlcs8XnG_Z0-p-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=70;exitDy=52.625;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wubzCxcxlcs8XnG_Z0-p-46" target="wubzCxcxlcs8XnG_Z0-p-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=70;exitDy=52.625;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="wubzCxcxlcs8XnG_Z0-p-47" target="wubzCxcxlcs8XnG_Z0-p-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-70" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="721.21" y="735" as="sourcePoint" />
+            <mxPoint x="721.21" y="775" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-71" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="941.22" y="735" as="sourcePoint" />
+            <mxPoint x="941.22" y="775" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-72" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1161.21" y="735" as="sourcePoint" />
+            <mxPoint x="1161.21" y="775" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-73" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="970" as="sourcePoint" />
+            <mxPoint x="1200" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-74" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.008;entryY=0.668;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="735" y="738" as="sourcePoint" />
+            <mxPoint x="925.5030000000002" y="772.5600000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-75" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.008;entryY=0.668;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="959.75" y="772" as="sourcePoint" />
+            <mxPoint x="1150.2530000000002" y="737.4399999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-76" value="Traceability" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="906.5" y="970" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
