@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T03:14:11.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="pNq3edXH1k8_iB7TKPdT" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T03:16:04.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="tInRtXtasG2b9zmOAxUI" version="24.6.2" type="github">
   <diagram id="_LS9YpCe_xg42UgXGaqf" name="Page-1">
     <mxGraphModel dx="1077" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-84" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="650" y="757.16" width="580" height="92.84" as="geometry" />
+        </mxCell>
         <mxCell id="wubzCxcxlcs8XnG_Z0-p-28" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="890" y="175" width="290" height="375" as="geometry" />
         </mxCell>
@@ -222,6 +225,9 @@
         </mxCell>
         <mxCell id="wubzCxcxlcs8XnG_Z0-p-83" value="Transactions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="1024.33" y="773" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wubzCxcxlcs8XnG_Z0-p-85" value="Blockchain Netwrok" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="590" y="788.58" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
