@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T06:12:54.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="nbJolWwEIE8Qx554m0Hn" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-30T06:15:05.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="GwoM2JguugUVCfbd478e" version="24.6.3" type="github">
   <diagram id="_LS9YpCe_xg42UgXGaqf" name="Page-1">
-    <mxGraphModel dx="893" dy="1597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1302" dy="1825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -283,10 +283,10 @@
         <mxCell id="MyG8iURPLnpCIFNMCqG4-44" value="Satellite imagery" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1163.870293255132" y="-23.75" width="92.63970674486804" height="57.50000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="MyG8iURPLnpCIFNMCqG4-24" value="Blockchain" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="MyG8iURPLnpCIFNMCqG4-24" value="ERP Software" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="743.26" y="-133.75" width="92.77756585157915" height="57.49999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="MyG8iURPLnpCIFNMCqG4-25" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div&gt;ERP Software&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="MyG8iURPLnpCIFNMCqG4-25" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div&gt;Blockchain&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="848.1822686776442" y="-133.75" width="92.77756585157915" height="57.49999999999999" as="geometry" />
         </mxCell>
         <mxCell id="MyG8iURPLnpCIFNMCqG4-26" value="IoT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
